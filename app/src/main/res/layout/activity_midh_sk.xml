@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center_horizontal">
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mission_title"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#2E7D32"
+            android:gravity="center"
+            android:paddingBottom="24dp"/>
+
+        <!-- Description -->
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mission_description"
+            android:textSize="17sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="#333333"
+            android:paddingBottom="24dp"/>
+
+        <!-- Eligibility -->
+        <TextView
+            android:id="@+id/eligibility"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mission_eligibility"
+            android:textSize="17sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="#333333"
+            android:paddingBottom="24dp"/>
+
+        <!-- Scheme Criteria -->
+        <TextView
+            android:id="@+id/criteria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mission_criteria"
+            android:textSize="17sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="#333333"
+            android:paddingBottom="24dp"/>
+
+        <!-- Duration -->
+        <TextView
+            android:id="@+id/duration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mission_duration"
+            android:textSize="17sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="#333333"
+            android:paddingBottom="24dp"/>
+
+        <!-- How to Apply -->
+        <TextView
+            android:id="@+id/how_to_apply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mission_apply"
+            android:textSize="17sp"
+            android:lineSpacingExtra="8dp"
+            android:textColor="#333333"
+            android:paddingBottom="24dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

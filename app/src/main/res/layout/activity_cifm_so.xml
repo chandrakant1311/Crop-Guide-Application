@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/scheme_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z1_scheme_name"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="16dp"/>
+
+        <!-- Description -->
+        <TextView
+            android:id="@+id/heading_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z2_heading_description"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp"/>
+
+        <TextView
+            android:id="@+id/description_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z3_description_text"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- Eligibility -->
+        <TextView
+            android:id="@+id/heading_eligibility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z4_heading_eligibility"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp"/>
+
+        <TextView
+            android:id="@+id/eligibility_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z5_eligibility_text"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- Scheme Criteria -->
+        <TextView
+            android:id="@+id/heading_scheme_criteria"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z6_heading_scheme_criteria"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp"/>
+
+        <TextView
+            android:id="@+id/scheme_criteria_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z7_scheme_criteria_text"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- Application Duration -->
+        <TextView
+            android:id="@+id/heading_application_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z8_heading_application_duration"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp"/>
+
+        <TextView
+            android:id="@+id/application_duration_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z9_application_duration_text"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+        <!-- How to Apply -->
+        <TextView
+            android:id="@+id/heading_how_to_apply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z10_heading_how_to_apply"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp"/>
+
+        <TextView
+            android:id="@+id/how_to_apply_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/z11_how_to_apply_text"
+            android:textSize="16sp"
+            android:paddingBottom="12dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

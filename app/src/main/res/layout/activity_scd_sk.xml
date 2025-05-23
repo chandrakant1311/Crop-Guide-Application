@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_title_coconut"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="20dp"/>
+
+        <!-- Section 1 -->
+        <TextView
+            android:id="@+id/section1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_section1_coconut"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:paddingBottom="16dp"/>
+
+        <!-- Section 2 -->
+        <TextView
+            android:id="@+id/section2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_section2_coconut"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:paddingBottom="16dp"/>
+
+        <!-- Section 3 -->
+        <TextView
+            android:id="@+id/section3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_section3_coconut"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:paddingBottom="16dp"/>
+
+        <!-- Section 4 -->
+        <TextView
+            android:id="@+id/section4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_section4_coconut"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:paddingBottom="16dp"/>
+
+        <!-- Section 5 -->
+        <TextView
+            android:id="@+id/section5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/page_section5_coconut"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:paddingBottom="16dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

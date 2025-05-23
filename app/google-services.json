@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484346285678",
+    "project_id": "multi-page-6436a",
+    "storage_bucket": "multi-page-6436a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484346285678:android:b8eae85bd5494e179de07f",
+        "android_client_info": {
+          "package_name": "com.example.multipage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo2IwEOjUdUlPD9cMZ-aDe5_Dnm6Zsr9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

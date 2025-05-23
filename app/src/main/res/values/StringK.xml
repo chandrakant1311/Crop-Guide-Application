@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gk1">Select Your Grain</string>
+
+    <string name="gk2">🌾Ragi</string>
+    <string name="gp39">Ragi (Finger Millet)</string>
+    <string name="ragi_kerala_v_title">🌾 Ragi (Finger Millet)</string>
+
+    <string name="ragi_kerala_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Thrives in humid conditions with rainfall (100-120 cm).\n\n
+<b>✅ Soil:</b> Grows well in laterite and sandy loam soil.\n\n
+<b>✅ Usage:</b> Used for Ragi Porridge, dosa, and baby food.\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Palakkad and Wayanad.\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Plowing, apply 8-10 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (June-July):</b> Broadcasting method (30 cm spacing). Seed rate: 8-10 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Aug):</b> 40 kg N, 30 kg P, 30 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Sept):</b> 2 irrigations; Atrazine (0.5 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Blast, smut – Mancozeb (2g/L).\n\n
+<b>6️⃣ Harvesting (Sept-Oct):</b> 110-130 days. Yield: 1.5-2.5 tons/ha.
+</string>
+
+
+    <string name="gk3">🌾Rice</string>
+    <string name="gp38">Rice (Paddy)</string>
+    <string name="rice_kerala_v_title">🌾 Rice (Paddy)</string>
+
+    <string name="rice_kerala_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi (Monsoon &amp; Winter)\n\n
+<b>✅ Climate:</b> Requires high rainfall (150-250 cm) and humid conditions.\n\n
+<b>✅ Soil:</b> Grows best in clayey and laterite soil.\n\n
+<b>✅ Usage:</b> Staple food in Kerala, used for rice dishes like Puttu and Idli.\n\n
+<b>✅ Kerala Relevance:</b> Grown in Kuttanad, known as the "Rice Bowl of Kerala."\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June &amp; Oct-Nov):</b> Field puddling, apply 10-15 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (June-July &amp; Nov-Dec):</b> Transplanting method (20 cm spacing). Seed rate: 30-40 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Jan):</b> 60 kg N, 40 kg P, 40 kg K/ha before transplanting.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Continuous flooding; Butachlor (1.5 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Bacterial blight, stem borer – Neem oil spray or Carbendazim (2g/L).\n\n
+<b>6️⃣ Harvesting (Oct &amp; March-April):</b> 120-150 days. Yield: 2.5-4.5 tons/ha.
+</string>
+
+    <string name="gk4">🌾Maize</string>
+    <string name="gp40">Maize (Corn)</string>
+    <string name="maize_kerala_v_title">🌾 Maize (Corn)</string>
+    <string name="maize_kerala_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Needs 50-100 cm rainfall with temperatures around 20-30°C.\n\n
+<b>✅ Soil:</b> Best in well-drained sandy loam soil.\n\n
+<b>✅ Usage:</b> Used in food, fodder, and biofuel.\n\n
+<b>✅ Kerala Relevance:</b> Increasing maize production due to demand for fodder.\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June &amp; Oct-Nov):</b> Apply 10-12 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (June-July &amp; Oct-Nov):</b> Drilling method (60 cm row spacing). Seed rate: 20-25 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 120 kg N, 60 kg P, 40 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> 2-3 irrigations; Atrazine (0.5 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fall armyworm, rust – Neem oil or Chlorpyrifos (2ml/L).\n\n
+<b>6️⃣ Harvesting (Oct &amp; Feb-March):</b> 90-120 days. Yield: 3-4 tons/ha.
+</string>
+
+    <string name="gk5">🌾Black Gram</string>
+    <string name="gp41">Black Gram (Urad Dal)</string>
+    <string name="blackgram_kerala_v_title">🌾 Black Gram (Urad Dal)</string>
+    <string name="blackgram_kerala_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Requires 60-80 cm rainfall and moderate temperatures.\n\n
+<b>✅ Soil:</b> Grows in loamy or lateritic soil.\n\n
+<b>✅ Usage:</b> Used in Idli batter, dosa, and dal.\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Alappuzha and Kottayam.\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Oct-Nov):</b> Apply 5-8 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (July &amp; Nov):</b> Broadcasting method (30 cm spacing). Seed rate: 15-20 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Feb):</b> 30 kg N, 40 kg P, 30 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Mostly rain-fed, one irrigation at pod formation. Pendimethalin (1 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur spray (2g/L).\n\n
+<b>6️⃣ Harvesting (Sept &amp; Feb-March):</b> 90-110 days. Yield: 1-2 tons/ha.
+</string>
+
+    <string name="gk6">🌾Sesame</string>
+    <string name="gp42">Sesame (Til)</string>
+    <string name="sesame_kerala_v_title">🌾 Sesame (Til)</string>
+    <string name="sesame_kerala_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Needs warm, humid climate with 50-75 cm rainfall.\n\n
+<b>✅ Soil:</b> Thrives in sandy loam soil with good drainage.\n\n
+<b>✅ Usage:</b> Used in oil extraction, sweets, and Ayurvedic medicine.\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in small farms in Palakkad.\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July):</b> Apply 5-8 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (July-Aug):</b> Broadcasting method (20 cm spacing). Seed rate: 3-5 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 20 kg N, 30 kg P, 20 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Oct):</b> Rain-fed crop, one irrigation at flowering. Pendimethalin (0.75 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Leaf spot – Copper oxychloride (2g/L).\n\n
+<b>6️⃣ Harvesting (Sept-Oct):</b> 80-100 days. Yield: 0.8-1.5 tons/ha.
+</string>
+
+    <string name="gk7">🌾Horse Gram</string>
+    <string name="gp43">Horse Gram (Kulthi Dal)</string>
+    <string name="horsegram_kerala_v_title">🌾 Horse Gram (Kulthi Dal)</string>
+    <string name="horsegram_kerala_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Drought-tolerant, needs 50-80 cm rainfall.\n\n
+<b>✅ Soil:</b> Grows well in lateritic soil.\n\n
+<b>✅ Usage:</b> Used in curries, soups, and Ayurvedic medicine.\n\n
+<b>✅ Kerala Relevance:</b> Common in hilly areas like Wayanad.\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Apply 5-8 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (Nov-Dec):</b> Broadcasting method (30 cm spacing). Seed rate: 15-20 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (Dec-Feb):</b> 30 kg N, 40 kg P, 30 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Dec-Mar):</b> Mostly rain-fed, one irrigation at flowering. Pendimethalin (0.75 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Rust – Mancozeb (2g/L).\n\n
+<b>6️⃣ Harvesting (Feb-March):</b> 100-120 days. Yield: 0.8-1.5 tons/ha.
+</string>
+
+    <string name="fk1">Select Your Fruit</string>
+
+    <string name="fk2">🍌Banana</string>
+    <string name="gp44">Banana (Nendran, Robusta, Rasthali)</string>
+    <string name="banana_kerala_v_title"> Banana \n(Nendran, Robusta, Rasthali)</string>
+    <string name="banana_kerala_v_details">
+<b>✅ Season:</b> Year-round\n\n
+<b>✅ Climate:</b> Hot &amp; humid, rainfall 150-300 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil, rich in organic matter\n\n
+<b>✅ Usage:</b> Fresh fruit, banana chips, fiber production\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Wayanad, Palakkad, Thiruvananthapuram\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Jan-Feb):</b> 20-25 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (March-April):</b> 1.5x1.5m spacing, suckers transplanted\n\n
+<b>3️⃣ Nutrient Management (April-Dec):</b> 300g N, 200g P, 400g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (April-Feb):</b> Drip irrigation, mulching with banana leaves\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Banana weevil – Neem oil spray (5ml/L)\n\n
+<b>6️⃣ Harvesting (10-12 months after planting):</b> Yield 30-35 tons/ha
+</string>
+
+    <string name="fk3">🌳Jackfruit</string>
+    <string name="gp45">Jackfruit (Varikka, Koozha, Muttom Varikka)</string>
+    <string name="jackfruit_kerala_v_title">🌳 Jackfruit \n (Varikka, Koozha, Muttom Varikka)</string>
+    <string name="jackfruit_kerala_v_details">
+<b>✅ Season:</b> Summer (March-June)\n\n
+<b>✅ Climate:</b> Humid tropical, rainfall 200-300 cm\n\n
+<b>✅ Soil:</b> Lateritic, well-drained soil\n\n
+<b>✅ Usage:</b> Fresh fruit, chips, sweets\n\n
+<b>✅ Kerala Relevance:</b> Found in Thrissur, Kottayam, Kollam\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (March-April):</b> 15-20 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (May-June):</b> 8x8m spacing, saplings transplanted\n\n
+<b>3️⃣ Nutrient Management (June-Nov):</b> 500g N, 300g P, 400g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (June-Feb):</b> Drip irrigation, mulching with organic matter\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit borer – Neem oil spray (5ml/L)\n\n
+<b>6️⃣ Harvesting (March-June):</b> 4-5 years after planting, yield 20-25 tons/ha
+</string>
+
+    <string name="fk4">🥥Coconut</string>
+    <string name="gp46">Coconut (Chandrakalpa, West Coast Tall, Kerala Tall)</string>
+    <string name="coconut_kerala_v_title">🥥 Coconut \n (Chandrakalpa, West Coast Tall, Kerala Tall)</string>
+    <string name="coconut_kerala_v_details">
+<b>✅ Season:</b> Year-round\n\n
+<b>✅ Climate:</b> Hot &amp; humid, rainfall 200-400 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam with good moisture retention\n\n
+<b>✅ Usage:</b> Oil extraction, fresh consumption, coir industry\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Alappuzha, Thrissur, Malappuram\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (April-May):</b> 10-12 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (June-July):</b> 7.5x7.5m spacing, seedlings planted\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 500g N, 250g P, 500g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Drip irrigation, mulching with coconut husk\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Rhinoceros beetle – Neem cake application\n\n
+<b>6️⃣ Harvesting (Year-round):</b> 5-6 years after planting, yield 80-100 nuts/tree
+</string>
+
+    <string name="fk5">🍍Pineapple</string>
+    <string name="gp47">Pineapple (Mauritius, Kew, Queen)</string>
+    <string name="pineapple_kerala_v_title">🍍 Pineapple \n (Mauritius, Kew, Queen)</string>
+    <string name="pineapple_kerala_v_details">
+<b>✅ Season:</b> Rainy &amp; Winter (July-December)\n\n
+<b>✅ Climate:</b> Humid tropical, rainfall 200-300 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam with acidic pH\n\n
+<b>✅ Usage:</b> Fresh fruit, juices, processed products\n\n
+<b>✅ Kerala Relevance:</b> Grown in Ernakulam, Pathanamthitta, Kottayam\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (March-April):</b> 10-15 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (May-June):</b> 30x60 cm spacing, suckers planted\n\n
+<b>3️⃣ Nutrient Management (June-Dec):</b> 200g N, 150g P, 250g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (June-Feb):</b> Drip irrigation, weeding every 45 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Mealybugs – Insecticide spray (Chlorpyrifos 2ml/L)\n\n
+<b>6️⃣ Harvesting (July-Dec):</b> 2 years after planting, yield 30-35 tons/ha
+</string>
+
+    <string name="fk6">🥭Mango</string>
+    <string name="gp48">Mango (Neelum, Alphonso, Banganapalli)</string>
+    <string name="mango_kerala_v_title">🥭 Mango \n (Neelum, Alphonso, Banganapalli)</string>
+    <string name="mango_kerala_v_details">
+<b>✅ Season:</b> Summer (March-July)\n\n
+<b>✅ Climate:</b> Humid tropical, rainfall 150-250 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil\n\n
+<b>✅ Usage:</b> Fresh consumption, juices, pickles\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Palakkad, Wayanad, Thrissur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July):</b> 15-20 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (July-August):</b> 8x8m spacing, grafted saplings used\n\n
+<b>3️⃣ Nutrient Management (Aug-Feb):</b> 500g N, 250g P, 500g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-March):</b> Drip irrigation, mulching with dry leaves\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Mango hoppers – Neem-based insecticide spray\n\n
+<b>6️⃣ Harvesting (March-July):</b> 3-5 years after planting, yield 12-15 tons/ha
+</string>
+
+    <string name="fk7">🍈Papaya</string>
+    <string name="gp49">Papaya (Coorg Honeydew, Red Lady, Solo Sunrise)</string>
+    <string name="papaya_kerala_v_title">🍈 Papaya \n (Coorg Honeydew, Red Lady, Solo Sunrise)</string>
+    <string name="papaya_kerala_v_details">
+<b>✅ Season:</b> Year-round\n\n
+<b>✅ Climate:</b> Warm humid climate, rainfall 150-200 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, high organic matter\n\n
+<b>✅ Usage:</b> Fresh fruit, juices, medicinal uses\n\n
+<b>✅ Kerala Relevance:</b> Found in Idukki, Kannur, Kollam\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Jan-Feb):</b> 15-20 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (March-April):</b> 1.5x2m spacing, seedlings transplanted\n\n
+<b>3️⃣ Nutrient Management (April-Dec):</b> 300g N, 200g P, 400g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (April-Feb):</b> Drip irrigation, mulching with organic matter\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Papaya ring spot virus – Neem oil spray (5ml/L)\n\n
+<b>6️⃣ Harvesting (6-9 months after planting):</b> Yield 25-30 tons/ha
+</string>
+
+    <string name="vk1">Select your Vegetables</string>
+
+    <string name="vk2">Elephantfoot</string>
+    <string name="gp50">Elephant Foot Yam (Gajendra, Sree Padma, Sree Athira)</string>
+    <string name="elephant_foot_yam_kerala_v_title">🐘 Elephant Foot Yam (Gajendra, Sree Padma, Sree Athira)</string>
+    <string name="elephant_foot_yam_kerala_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-35°C), high rainfall 150-200 cm\n\n
+<b>✅ Soil:</b> Well-drained red loam with high organic matter\n\n
+<b>✅ Usage:</b> Used in curries, pickles, and chips\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Palakkad, Idukki, Thiruvananthapuram\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Deep plowing, FYM 30 tons/ha applied\n\n
+<b>2️⃣ Planting (June-July):</b> Setts (tubers) planted at 75x75 cm spacing\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 90 kg N, 60 kg P, 90 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Nov):</b> Mulching done, light irrigation in dry spells\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Aphids – Neem oil spray, Bordeaux mixture for rot control\n\n
+<b>6️⃣ Harvesting (Dec-Feb):</b> 200-250 days after planting, yield 30-40 tons/ha
+</string>
+
+    <string name="vk3">Snakegourd</string>
+    <string name="gp51">Snake Gourd (Baby, Co-1, Sree Priya)</string>
+    <string name="snake_gourd_kerala_v_title">🐍 Snake Gourd \n (Baby, Co-1, Sree Priya)</string>
+    <string name="snake_gourd_kerala_v_details">
+<b>✅ Season:</b> Summer &amp; Monsoon\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-30°C), moderate rainfall 100-150 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.5-7.5\n\n
+<b>✅ Usage:</b> Used in curries, sambar, and stir-fries\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Thrissur, Kottayam, Ernakulam\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-May):</b> Plowed and ridges made, FYM 10-15 tons/ha applied\n\n
+<b>2️⃣ Sowing (March-June):</b> Seeds directly sown, 2-3 seeds per hill\n\n
+<b>3️⃣ Nutrient Management (April-Aug):</b> 80 kg N, 50 kg P, 60 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (May-Sept):</b> Light irrigation every 4-5 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur dusting, Neem spray for pests\n\n
+<b>6️⃣ Harvesting (June-Nov):</b> 50-60 days after sowing, yield 10-12 tons/ha
+</string>
+
+    <string name="vk4">Bittergourd</string>
+    <string name="gp52">Bitter Gourd (Preethi, Priya, Arka Harit, Pusa Vishesh)</string>
+    <string name="bitter_gourd_kerala_v_title">🌿 Bitter Gourd \n (Preethi, Priya, Arka Harit, Pusa Vishesh)</string>
+    <string name="bitter_gourd_kerala_v_details">
+<b>✅ Season:</b> Kharif &amp; Summer\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-35°C), high rainfall 150-200 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used in curries, pickles, and medicinal preparations\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Malappuram, Kozhikode, Kannur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-April):</b> Plowed and raised beds prepared, FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Sowing (March-May):</b> Seeds sown at 75 cm spacing\n\n
+<b>3️⃣ Nutrient Management (April-Aug):</b> 90 kg N, 60 kg P, 70 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (May-Sept):</b> Light irrigation every 5-7 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit fly – Pheromone traps, neem spray\n\n
+<b>6️⃣ Harvesting (June-Oct):</b> 55-65 days after sowing, yield 12-15 tons/ha
+</string>
+
+    <string name="vk5">🎃Ashgourd</string>
+    <string name="gp53">Ash Gourd (Sree Padma, KAU Local, Co-2)</string>
+    <string name="ash_gourd_kerala_v_title">🎃 Ash Gourd \n (Sree Padma, KAU Local, Co-2)</string>
+    <string name="ash_gourd_kerala_v_details">
+<b>✅ Season:</b> Kharif &amp; Summer\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-30°C), moderate rainfall 100-150 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used in curries, sweets (petha), and sambar\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Alappuzha, Kollam, Pathanamthitta\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-May):</b> Plowed &amp; ridges made, FYM 10-15 tons/ha applied\n\n
+<b>2️⃣ Sowing (March-June):</b> Seeds directly sown, 2-3 seeds per hill\n\n
+<b>3️⃣ Nutrient Management (April-Aug):</b> 80 kg N, 50 kg P, 60 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (May-Sept):</b> Light irrigation every 4-5 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur dusting, Neem spray for pests\n\n
+<b>6️⃣ Harvesting (June-Nov):</b> 50-60 days after sowing, yield 10-12 tons/ha
+</string>
+
+    <string name="vk6">Colocasia</string>
+    <string name="gp54">Colocasia (Muktakeshi, Sree Reshmi, KAU Local)</string>
+    <string name="colocasia_kerala_v_title">🌿 Colocasia (Muktakeshi, Sree Reshmi, KAU Local)</string>
+    <string name="colocasia_kerala_v_details">
+<b>✅ Season:</b> Monsoon &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-30°C), high rainfall 150-200 cm\n\n
+<b>✅ Soil:</b> Clayey loam with good drainage\n\n
+<b>✅ Usage:</b> Used in curries, stir-fries, and snacks\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Kottayam, Ernakulam, Kasaragod\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-July):</b> Deep plowing, FYM 25-30 tons/ha applied\n\n
+<b>2️⃣ Planting (July-August):</b> Corms planted at 60x40 cm spacing\n\n
+<b>3️⃣ Nutrient Management (Aug-Oct):</b> 90 kg N, 60 kg P, 90 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Sept-Dec):</b> Irrigation every 10-12 days, mulching done\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Taro leaf blight – Bordeaux mixture spray\n\n
+<b>6️⃣ Harvesting (Dec-March):</b> 180-200 days after planting, yield 15-18 tons/ha
+</string>
+
+    <string name="vk7">Yardlongbean</string>
+    <string name="gp55">Yardlong Bean (Paiyur-1, Arka Mangala, Vellayani Jyothika)</string>
+    <string name="yardlong_bean_kerala_v_title">🌿 Yardlong Bean (Paiyur-1, Arka Mangala, Vellayani Jyothika)</string>
+    <string name="yardlong_bean_kerala_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-30°C), moderate rainfall 100-150 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used in curries, stir-fries, and salads\n\n
+<b>✅ Kerala Relevance:</b> Cultivated in Thrissur, Palakkad, Wayanad\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-May):</b> Plowed and ridges made, FYM 10-15 tons/ha applied\n\n
+<b>2️⃣ Sowing (March-June):</b> Seeds directly sown, 2-3 seeds per hill\n\n
+<b>3️⃣ Nutrient Management (April-Aug):</b> 80 kg N, 50 kg P, 60 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (May-Sept):</b> Light irrigation every 4-5 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur dusting, Neem spray for pests\n\n
+<b>6️⃣ Harvesting (June-Nov):</b> 50-60 days after sowing, yield 10-12 tons/ha
+</string>
+
+    <string name="sk1">Select your scheme</string>
+    <string name="sk2">1)Mission for Integrated Development of Horticulture (MIDH)</string>
+    <string name="sk3">2)Sustainable Development of Rice</string>
+    <string name="sk4">3) Development Programme</string>
+    <string name="sk5">4)Scheme on Coconut Development</string>
+
+    <string name="mission_title">🌱 1. Mission for Integrated Development of Horticulture (MIDH)</string>
+    <string name="mission_description">📝 <b>Description:</b>
+        <br/>A centrally sponsored scheme focused on holistic growth of the horticulture sector, including fruits, vegetables, spices, and floriculture.</string>
+
+    <string name="mission_eligibility">✅ <b>Eligibility:</b>
+        <br/><br/>• Farmers, FPOs, SHGs, NGOs, cooperatives.<br/>• Must own or lease land for horticulture.</string>
+
+    <string name="mission_criteria">📌 <b>Scheme Criteria:</b>
+        <br/><br/>Financial assistance for:<br/><br/>• Production of planting materials.<br/>• Protected cultivation (greenhouses).<br/>• Post-harvest infrastructure &amp; marketing.<br/><br/>Subsidy: 40%–60% depending on the activity.</string>
+
+    <string name="mission_duration">⏳ <b>Application Duration:</b>
+        <br/><br/>Typically opens at the beginning of the financial year (April–June).</string>
+
+    <string name="mission_apply">🖥️ <b>How to Apply:</b>
+        <br/><br/>• Online through AIMS Kerala Portal.<br/>• Or via local Krishi Bhavans.</string>
+
+
+    <string name="page_title_coconut">🥥  Scheme on Coconut Development</string>
+    <string name="page_section1_coconut">📝 <b>Description:</b>\nRun by the Coconut Development Board, this scheme boosts coconut productivity through farm-level interventions.</string>
+
+    <string name="page_section2_coconut">✅ <b>Eligibility:</b>\n\n• Individual coconut farmers, groups, or societies.\n• Must have coconut gardens or farms with potential for improvement.</string>
+
+    <string name="page_section3_coconut">📌 <b>Scheme Criteria:</b>\n\nFinancial aid for:\n\n• Replanting, integrated farming.\n• Setting up nurseries and processing units.\n• Subsidies for seedlings, fertilizers, pest control.</string>
+
+    <string name="page_section4_coconut">⏳ <b>Application Duration:</b>\n\nApplications typically open from April to August each year.</string>
+
+    <string name="page_section5_coconut">🖥️ <b>How to Apply:</b>\n\n• Apply through Coconut Board Website.\n• Or via the AIMS portal or Krishi Bhavan.</string>
+
+
+    <string name="page_title_rice">🌾 Sustainable Development of Rice (SDR)</string>
+    <string name="page_section1_rice">📝 <b>Description:</b>\nThis scheme enhances the sustainability and productivity of rice cultivation by supporting group farming and input assistance.</string>
+
+    <string name="page_section2_rice">✅ <b>Eligibility:</b>\n\n• Individual rice farmers and registered group farms.\n• Padasekhara Samithies (paddy collectives).</string>
+
+    <string name="page_section3_rice">📌 <b>Scheme Criteria:</b>\n\n• ₹5,500 per hectare for seeds and other inputs.\n• Encouragement for specialty rice cultivation.\n• Focus on sustainable practices and group farming.</string>
+
+    <string name="page_section4_rice">⏳ <b>Application Duration:</b>\n\nApplication periods align with the rice growing seasons (May–June, October–November).\n\nCheck updates annually via AIMS.</string>
+
+    <string name="page_section5_rice">🖥️ <b>How to Apply:</b>\n\n• Register or log in to AIMS Kerala Portal.\n• Or contact the local Krishi Bhavan.</string>
+
+    <string name="page_title_general_farming">🌱  Development Programs (General Farming)</string>
+
+    <string name="page_section1_general_farming">📝 <b>Description:</b>\nThese programs support infrastructure development, organic farming, and mechanization across Kerala’s agricultural sector.</string>
+
+    <string name="page_section2_general_farming">✅ <b>Eligibility:</b>\n\n• All registered farmers.\n• Specific sub-programs may have additional conditions (e.g., landholding, region).</string>
+
+    <string name="page_section3_general_farming">📌 <b>Scheme Criteria:</b>\n\nSupport includes:\n\n• Farm mechanization.\n• Irrigation systems.\n• Training and market access.\n• Focus on organic practices and sustainability.</string>
+
+    <string name="page_section4_general_farming">⏳ <b>Application Duration:</b>\n\nVaries depending on sub-program.\nGenerally active throughout the year in different phases.</string>
+
+    <string name="page_section5_general_farming">🖥️ <b>How to Apply:</b>\n\n• Online via AIMS Portal.\n• Or through Krishi Bhavan offices.</string>
+
+</resources>

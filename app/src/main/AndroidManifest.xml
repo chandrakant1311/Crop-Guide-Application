@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MultiPage"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".Veg_of_MH.Sponge_gourd_v_M"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_K.SCD_s_K"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_K.VDP_s_K"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_K.SDR_s_K"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_K.MIDH_s_K"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_K.Yardlongbean_v_K"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_K.Colocasia_v_K"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_K.Ashgourd_v_K"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_K.Bittergourd_v_K"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_K.Snakegourd_v_K"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_K.Elephantfoot_v_K"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_K.Mango_f_K"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_K.Papaya_f_K"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_K.Pineapple_f_K"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_K.Coconut_f_K"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_K.Jackfruit_f_K"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_K.Banana_f_K"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_K.HorseGram_g_K"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_K.Sesame_g_K"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_K.BlackGram_g_K"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_K.Maize_g_K"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_K.Rice_g_K"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_K.Ragi_g_K"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_O.BALRAM_s_O"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_O.PCBA_s_O"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_O.CIFM_s_O"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_O.MKUY_s_O"
+            android:exported="false" />
+        <activity
+            android:name=".veg_of_O.Onion_v_O"
+            android:exported="false" />
+        <activity
+            android:name=".veg_of_O.Okra_v_O"
+            android:exported="false" />
+        <activity
+            android:name=".veg_of_O.Chilli_v_O"
+            android:exported="false" />
+        <activity
+            android:name=".veg_of_O.Tomato_v_O"
+            android:exported="false" />
+        <activity
+            android:name=".veg_of_O.Cauliflower_v_O"
+            android:exported="false" />
+        <activity
+            android:name=".veg_of_O.Brinjal_v_O"
+            android:exported="false" />
+        <activity
+            android:name=".Fruit_of_O.Pineapple_f_O"
+            android:exported="false" />
+        <activity
+            android:name=".Fruit_of_O.Coconut_f_O"
+            android:exported="false" />
+        <activity
+            android:name=".Fruit_of_O.Jackfruit_f_O"
+            android:exported="false" />
+        <activity
+            android:name=".Fruit_of_O.Banana_f_O"
+            android:exported="false" />
+        <activity
+            android:name=".Fruit_of_O.Guava_f_O"
+            android:exported="false" />
+        <activity
+            android:name=".Fruit_of_O.Mango_f_O"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_O.Sesame_g_O"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_O.Greengram_g_O"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_O.Blackgram__g_O"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_O.Ragi_g_O"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_O.Maize_g_O"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_O.Rice_g_O"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_P.AGLC_S_P"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_P.KCC_S_P"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_P.PCKCS_S_P"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_P.Radish_V_P"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_P.Spinach_V_P"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_P.Peas_V_P"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_P.Carrot_V_P"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_P.Cauliflower_V_P"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_P.Potato_V_P"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_P.Ber_F_P"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_P.Pomegranate_F_P"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_P.Pear_F_P"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_P.Amla_F_P"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_P.Guava_F_P"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_P.Kinnow_F_P"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_P.Gram_G_P"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_P.Bajra_G_P"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_P.Barley_G_P"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_P.Maize_G_P"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_P.Rice_G_P"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_P.Wheat_G_P"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_MH.AIF_S_MH"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_MH.PMKMY_S_MH"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_MH.PMKISAN_S_MH"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes_of_MH.PMFBY_S_MH"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_MH.Cauliflower_v_M"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_MH.Brinjal_v_M"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_MH.Okara_v_M"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_MH.Chilli_v_M"
+            android:exported="false" />
+        <activity
+            android:name=".Veg_of_MH.Onion_v_M"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_MH.CustardApple_f_M"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_MH.Papaya_f_M"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_MH.Watermelon_f_M"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_MH.Pomgranet_f_M"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_MH.Banana_f_M"
+            android:exported="false" />
+        <activity
+            android:name=".Fruits_of_MH.Mango_f_M"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_MH.Chickpea_g_Mh"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_MH.Soyabin_g_mh"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_MH.Bajra_g_mh"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_MH.Jowar_g_mh"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_MH.Rice_g_Mh"
+            android:exported="false" />
+        <activity
+            android:name=".Grains_of_MH.wheat_g_Mh"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes.SchemeK"
+            android:exported="false" />
+        <activity
+            android:name=".Vegetables.VegetableK"
+            android:exported="false" />
+        <activity
+            android:name=".fruits.FruitsK"
+            android:exported="false" />
+        <activity
+            android:name=".Grains.GrainK"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes.SchemeO"
+            android:exported="false" />
+        <activity
+            android:name=".Vegetables.VegetableO"
+            android:exported="false" />
+        <activity
+            android:name=".fruits.FruitsO"
+            android:exported="false" />
+        <activity
+            android:name=".Grains.GrainO"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes.SchemeP"
+            android:exported="false" />
+        <activity
+            android:name=".Vegetables.VegetableP"
+            android:exported="false" />
+        <activity
+            android:name=".fruits.FruitsP"
+            android:exported="false" />
+        <activity
+            android:name=".Grains.GrainP"
+            android:exported="false" />
+        <activity
+            android:name=".Schemes.SchemeM"
+            android:exported="false" />
+        <activity
+            android:name=".Vegetables.VegetableM"
+            android:exported="false" />
+        <activity
+            android:name=".fruits.FruitsM"
+            android:exported="false" />
+        <activity
+            android:name=".Grains.GrainM"
+            android:exported="false" />
+        <activity
+            android:name=".MenuAll.MenuOdisha"
+            android:exported="false" />
+        <activity
+            android:name=".MenuAll.MenuPunjab"
+            android:exported="false" />
+        <activity
+            android:name=".MenuAll.MenuKerala"
+            android:exported="false" />
+        <activity
+            android:name=".StateSelection"
+            android:exported="false" />
+        <activity
+            android:name=".MenuAll.MenuMaharashtra"
+            android:exported="false" />
+        <activity
+            android:name=".SignUp"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

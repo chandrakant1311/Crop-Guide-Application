@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go1">Select Your Grain</string>
+
+    <string name="go2">🌾Rice</string>
+    <string name="gp20">Rice (Paddy)</string>
+    <string name="rice_v_titles">🌾 Rice (Paddy)</string>
+    <string name="rice_v_details1">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Requires high rainfall (120-250 cm) and humid conditions\n\n
+<b>✅ Soil:</b> Best grown in alluvial and clayey soil\n\n
+<b>✅ Usage:</b> Staple food in Odisha, used for rice-based dishes like Pakhala Bhata\n\n
+<b>✅ Odisha Relevance:</b> Grown in coastal and delta regions like Cuttack and Puri\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June &amp; Oct-Nov):</b> Field puddling, apply 10-15 tons/ha FYM\n\n
+<b>2️⃣ Sowing (June-July &amp; Nov-Dec):</b> Transplanting method (20 cm spacing). Seed rate: 30-40 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Jan):</b> 60 kg N, 40 kg P, 40 kg K/ha before transplanting\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Continuous flooding; Butachlor (1.5 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Blast, Bacterial leaf blight – Mancozeb (2g/L)\n\n
+<b>6️⃣ Harvesting (Oct &amp; March-April):</b> 120-150 days. Yield: 3-5 tons/ha
+</string>
+
+    <string name="go3">🌾Maize</string>
+    <string name="gp21">Maize (Corn)</string>
+    <string name="maize_v_titles">🌾 Maize (Corn)</string>
+    <string name="maize_v_details1">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Requires 50-100 cm rainfall with warm temperatures\n\n
+<b>✅ Soil:</b> Best in well-drained sandy loam soil\n\n
+<b>✅ Usage:</b> Used in food, fodder, and industrial products\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in western Odisha (Koraput, Kalahandi)\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June &amp; Oct-Nov):</b> Apply 10-12 tons/ha FYM\n\n
+<b>2️⃣ Sowing (June-July &amp; Oct-Nov):</b> Drilling method (60 cm row spacing). Seed rate: 20-25 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 120 kg N, 60 kg P, 40 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> 2-3 irrigations; Atrazine (0.5 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fall armyworm, rust – Neem oil or Chlorpyrifos (2ml/L)\n\n
+<b>6️⃣ Harvesting (Oct &amp; Feb-March):</b> 90-120 days. Yield: 3-4 tons/ha
+</string>
+
+    <string name="go4">🌾Ragi</string>
+    <string name="gp22">Ragi (Finger Millet)</string>
+    <string name="ragi_v_title">🌾 Ragi (Finger Millet)</string>
+    <string name="ragi_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Grows well in areas with 100-120 cm rainfall\n\n
+<b>✅ Soil:</b> Prefers red and lateritic soil\n\n
+<b>✅ Usage:</b> Used for porridge, roti, and baby food\n\n
+<b>✅ Odisha Relevance:</b> Common in tribal areas like Kandhamal and Rayagada\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Plowing, apply 8-10 tons/ha FYM\n\n
+<b>2️⃣ Sowing (June-July):</b> Broadcasting method (30 cm spacing). Seed rate: 8-10 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Aug):</b> 40 kg N, 30 kg P, 30 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Sept):</b> 2 irrigations; Atrazine (0.5 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Blast, smut – Mancozeb (2g/L)\n\n
+<b>6️⃣ Harvesting (Sept-Oct):</b> 110-130 days. Yield: 1.5-2.5 tons/ha
+</string>
+
+    <string name="go5">🌾Green Gram</string>
+    <string name="gp23">Green Gram (Moong Dal)</string>
+    <string name="green_gram_v_title">🌾 Green Gram (Moong Dal)</string>
+    <string name="green_gram_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Requires 50-75 cm rainfall and warm weather\n\n
+<b>✅ Soil:</b> Best in sandy loam soil with good drainage\n\n
+<b>✅ Usage:</b> Used for dal, sprouts, and sweets\n\n
+<b>✅ Odisha Relevance:</b> Widely grown in coastal districts like Balasore and Bhadrak\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Oct-Nov):</b> Apply 5-8 tons/ha FYM\n\n
+<b>2️⃣ Sowing (July &amp; Nov):</b> Broadcasting method (30 cm spacing). Seed rate: 15-20 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Feb):</b> 30 kg N, 40 kg P, 30 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Mostly rain-fed, one irrigation at flowering. Pendimethalin (1 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Yellow mosaic virus – Neem oil spray or Imidacloprid (0.5 ml/L)\n\n
+<b>6️⃣ Harvesting (Sept &amp; Feb-March):</b> 80-100 days. Yield: 1-1.5 tons/ha
+</string>
+
+    <string name="go6">🌾Black Gram</string>
+    <string name="gp24">Black Gram (Urad Dal)</string>
+    <string name="black_gram_v_title">🌾 Black Gram (Urad Dal)</string>
+    <string name="black_gram_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Requires 60-80 cm rainfall and moderate temperatures\n\n
+<b>✅ Soil:</b> Grows in loamy or lateritic soil\n\n
+<b>✅ Usage:</b> Used in dal, snacks, and idli batter\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in interior districts like Nuapada and Malkangiri\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Oct-Nov):</b> Apply 5-8 tons/ha FYM\n\n
+<b>2️⃣ Sowing (July &amp; Nov):</b> Broadcasting method (30 cm spacing). Seed rate: 15-20 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Feb):</b> 30 kg N, 40 kg P, 30 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Mostly rain-fed, one irrigation at pod formation. Pendimethalin (1 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur spray (2g/L)\n\n
+<b>6️⃣ Harvesting (Sept &amp; Feb-March):</b> 90-110 days. Yield: 1-2 tons/ha
+</string>
+
+    <string name="go7">🌾Sesame</string>
+    <string name="gp25">Sesame (Til)</string>
+    <string name="sesame_v_title">🌾 Sesame (Til)</string>
+    <string name="sesame_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Needs warm, humid climate with 50-75 cm rainfall\n\n
+<b>✅ Soil:</b> Thrives in sandy loam soil with good drainage\n\n
+<b>✅ Usage:</b> Used in oil extraction, sweets, and Ayurvedic medicine\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in districts like Ganjam and Kendrapara\n\n
+<b>Cultivation Process with Fertilizers &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July):</b> Apply 5-8 tons/ha FYM\n\n
+<b>2️⃣ Sowing (July-Aug):</b> Broadcasting method (20 cm spacing). Seed rate: 3-5 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 20 kg N, 30 kg P, 20 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Oct):</b> Rain-fed crop, one irrigation at flowering. Pendimethalin (0.75 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Leaf spot – Copper oxychloride (2g/L)\n\n
+<b>6️⃣ Harvesting (Sept-Oct):</b> 80-100 days. Yield: 0.8-1.5 tons/ha
+</string>
+
+    <string name="fo1">Select Your Fruit</string>
+
+    <string name="fo2">🥭Mango</string>
+    <string name="gp27">Mango (Alphonso, Langra, Dussehri)</string>
+    <string name="mango_v_title">🥭 Mango \n (Alphonso, Langra, Dussehri)</string>
+    <string name="mango_v_details">
+<b>✅ Season:</b> Summer (April-July)\n\n
+<b>✅ Climate:</b> Requires tropical &amp; subtropical climate, rainfall 75-250 cm\n\n
+<b>✅ Soil:</b> Best in well-drained loamy soil\n\n
+<b>✅ Usage:</b> Fresh consumption, juices, pickles\n\n
+<b>✅ Odisha Relevance:</b> Grown in Ganjam, Dhenkanal, Angul\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July):</b> 15-20 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (July-August):</b> 8x8m spacing, grafted saplings used\n\n
+<b>3️⃣ Nutrient Management (Aug-Feb):</b> 500g N, 250g P, 500g K per tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-March):</b> Drip irrigation, mulching with dry leaves\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Mango hoppers – Neem-based insecticide spray\n\n
+<b>6️⃣ Harvesting (April-July):</b> 3-5 years after planting, yield 12-15 tons/ha
+</string>
+
+
+    <string name="fo3">🌳Guava</string>
+    <string name="gp26">Guava (Allahabad Safeda, Arka Kiran, L-49)</string>
+    <string name="guava_v_titles">🌳 Guava \n (Allahabad Safeda, Arka Kiran, L-49)</string>
+    <string name="guava_v_details1">
+<b>✅ Season:</b> Winter &amp; Summer\n\n
+<b>✅ Climate:</b> Requires tropical climate, rainfall 100-150 cm\n\n
+<b>✅ Soil:</b> Best in sandy loam or lateritic soil\n\n
+<b>✅ Usage:</b> Consumed fresh, in jams, juices\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Cuttack, Bhadrak, Mayurbhanj\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (April-May):</b> 10-12 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (June-July):</b> 5x5m spacing, deep pits for seedlings\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 400g N, 250g P, 500g K per tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Drip irrigation, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit fly – Malathion spray (2ml/L water)\n\n
+<b>6️⃣ Harvesting (Oct-April):</b> 2-3 years after planting, yield 15-20 tons/ha
+</string>
+
+    <string name="fo4">🍌Banana</string>
+    <string name="gp28">Banana (Grand Naine, Cavendish, Rasthali)</string>
+    <string name="banana_v_title">🍌 Banana \n (Grand Naine, Cavendish, Rasthali)</string>
+    <string name="banana_v_details">
+<b>✅ Season:</b> Year-round\n\n
+<b>✅ Climate:</b> Hot &amp; humid climate, rainfall 150-200 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, rich in organic matter\n\n
+<b>✅ Usage:</b> Fresh fruit, banana chips, fiber production\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Balasore, Koraput, Puri\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Jan-Feb):</b> 20-25 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (March-April):</b> 1.5x1.5m spacing, suckers transplanted\n\n
+<b>3️⃣ Nutrient Management (April-Dec):</b> 300g N, 200g P, 400g K per tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (April-Feb):</b> Drip irrigation, mulching with banana leaves\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Panama wilt – Copper fungicide spray (3g/L)\n\n
+<b>6️⃣ Harvesting (10-12 months after planting):</b> Yield 30-35 tons/ha
+</string>
+
+    <string name="fo5">🍈Jackfruit</string>
+    <string name="gp29">Jackfruit (Varikka, Muttom Varikka, Chandra)</string>
+    <string name="jackfruit_v_title">🍈 Jackfruit \n (Varikka, Muttom Varikka, Chandra)</string>
+    <string name="jackfruit_v_details">
+<b>✅ Season:</b> Summer (March-June)\n\n
+<b>✅ Climate:</b> Tropical &amp; humid, rainfall 150-200 cm\n\n
+<b>✅ Soil:</b> Lateritic, well-drained soil\n\n
+<b>✅ Usage:</b> Fresh fruit, processed into chips, sweets\n\n
+<b>✅ Odisha Relevance:</b> Found in Rayagada, Kandhamal, Keonjhar\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (March-April):</b> 15-20 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (May-June):</b> 8x8m spacing, saplings transplanted\n\n
+<b>3️⃣ Nutrient Management (June-Nov):</b> 500g N, 300g P, 400g K per tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (June-Feb):</b> Drip irrigation, mulching with organic matter\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit borer – Neem oil spray (5ml/L)\n\n
+<b>6️⃣ Harvesting (March-June):</b> 4-5 years after planting, yield 20-25 tons/ha
+</string>
+
+    <string name="fo6">🥥Coconut</string>
+    <string name="gp30">Coconut (East Coast Tall, Odisha Tall, Chandrakalpa)</string>
+    <string name="coconut_v_title">🥥 Coconut \n (East Coast Tall, Odisha Tall, Chandrakalpa)</string>
+    <string name="coconut_v_details">
+<b>✅ Season:</b> Year-round\n\n
+<b>✅ Climate:</b> Tropical &amp; humid, rainfall 150-300 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy soil with good moisture retention\n\n
+<b>✅ Usage:</b> Oil extraction, fresh consumption, coir industry\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Khurda, Puri, Ganjam\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (April-May):</b> 10-12 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (June-July):</b> 7.5x7.5m spacing, seedlings planted\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 500g N, 250g P, 500g K per tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Drip irrigation, mulching with coconut husk\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Rhinoceros beetle – Neem cake application\n\n
+<b>6️⃣ Harvesting (Year-round):</b> 5-6 years after planting, yield 80-100 nuts/tree
+</string>
+
+    <string name="fo7">🍍Pineapple</string>
+    <string name="gp31">Pineapple (Queen, Kew, Mauritius)</string>
+    <string name="pineapple_v_title">🍍 Pineapple \n (Queen, Kew, Mauritius)</string>
+    <string name="pineapple_v_details">
+<b>✅ Season:</b> Rainy &amp; Winter (July-December)\n\n
+<b>✅ Climate:</b> Humid subtropical, rainfall 150-250 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam with acidic pH\n\n
+<b>✅ Usage:</b> Fresh fruit, juices, processed products\n\n
+<b>✅ Odisha Relevance:</b> Grown in Mayurbhanj, Keonjhar, Sundargarh\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (March-April):</b> 10-15 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (May-June):</b> 30x60 cm spacing, suckers planted\n\n
+<b>3️⃣ Nutrient Management (June-Dec):</b> 200g N, 150g P, 250g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (June-Feb):</b> Drip irrigation, weeding every 45 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Mealybugs – Insecticide spray (Chlorpyrifos 2ml/L)\n\n
+<b>6️⃣ Harvesting (July-Dec):</b> 2 years after planting, yield 30-35 tons/ha
+</string>
+
+    <string name="vo1">Select your Vegetables</string>
+
+    <string name="vo2">🍆Brinjal</string>
+    <string name="gp32">Brinjal (Utkal Anushree, Utkal Keshari, Swarna Mani)</string>
+    <string name="brinjal_v_title">🍆 Brinjal \n (Utkal Anushree, Utkal Keshari, Swarna Mani)</string>
+    <string name="brinjal_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-30°C), moderate rainfall 80-120 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used for curries, fries, and pickles\n\n
+<b>✅ Odisha Relevance:</b> Grown in Cuttack, Balasore, Ganjam\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June &amp; Oct):</b> Plowed 2-3 times, FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Nursery Raising (June-July, Oct-Nov):</b> Seeds sown in raised beds, transplanted after 25-30 days\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 100 kg N, 60 kg P, 50 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-Jan):</b> Light irrigation at 7-10 days interval\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Shoot borer – Neem oil spray, Carbaryl dust for aphids\n\n
+<b>6️⃣ Harvesting (Sept-Feb):</b> 70-80 days after transplanting, yield 25-30 tons/ha
+</string>
+
+    <string name="vo3">🍅Tomato</string>
+    <string name="gp33">Tomato (Arka Rakshak, Utkal Kumari, Swarna Lalima)</string>
+    <string name="tomato_v_title">🍅 Tomato \n (Arka Rakshak, Utkal Kumari, Swarna Lalima)</string>
+    <string name="tomato_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Moderate temperature (20-25°C), low humidity\n\n
+<b>✅ Soil:</b> Well-drained loam, rich in organic matter\n\n
+<b>✅ Usage:</b> Used in curries, sauces, and salads\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Kandhamal, Bargarh, Sambalpur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Plowing with FYM 20 tons/ha\n\n
+<b>2️⃣ Nursery Raising (Nov-Dec):</b> Seedlings raised in trays, transplanted at 25 days\n\n
+<b>3️⃣ Nutrient Management (Dec-Feb):</b> 120 kg N, 80 kg P, 100 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Dec-April):</b> Drip irrigation preferred\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Early blight – Mancozeb spray (2.5g/L water)\n\n
+<b>6️⃣ Harvesting (March-May):</b> 90-100 days after transplanting, yield 30-35 tons/ha
+</string>
+
+    <string name="vo4">🥦Cauliflower</string>
+    <string name="gp34">Cauliflower (Snowball-16, Pusa Meghna, Swarna Ageti)</string>
+    <string name="cauliflower_v_title1">🥦 Cauliflower \n (Snowball-16, Pusa Meghna, Swarna Ageti)</string>
+    <string name="cauliflower_v_detailss">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Cool climate (15-20°C), moderate rainfall 80-100 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used in curries, fries, and pickles\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Koraput, Rayagada, Nayagarh\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Aug-Sept):</b> Plowing 2-3 times, FYM 20 tons/ha applied\n\n
+<b>2️⃣ Nursery Raising (Sept-Oct):</b> Seeds sown in trays, transplanted at 30-35 days\n\n
+<b>3️⃣ Nutrient Management (Oct-Dec):</b> 120 kg N, 80 kg P, 100 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Nov-Feb):</b> Irrigated every 7-10 days, earthing up done\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Downy mildew – Copper oxychloride spray\n\n
+<b>6️⃣ Harvesting (Jan-March):</b> 90-110 days after transplanting, yield 20-25 tons/ha
+</string>
+
+    <string name="vo5">🌶️Chilli</string>
+    <string name="gp35">Chilli (Utkal Ava, Utkal Rashmi, Byadagi-1)</string>
+    <string name="chilli_v_titles">🌶️ Chilli \n (Utkal Ava, Utkal Rashmi, Byadagi-1)</string>
+    <string name="chilli_v_details1">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm climate (22-30°C), moderate rainfall 80-120 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used as a spice and in pickles\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Balangir, Kalahandi, Malkangiri\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June, Oct-Nov):</b> Plowing 2-3 times, FYM 20 tons/ha applied\n\n
+<b>2️⃣ Nursery Raising (June &amp; Nov):</b> Seeds sown in raised beds, transplanted at 30-35 days\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 100 kg N, 60 kg P, 80 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-Jan):</b> Irrigation every 7-10 days, mulching applied\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Thrips – Neem oil spray, fungal issues managed with Mancozeb spray\n\n
+<b>6️⃣ Harvesting (Sept-Feb):</b> 120-150 days after transplanting, yield 15-20 tons/ha
+</string>
+
+    <string name="vo6">🌱Okra</string>
+    <string name="gp36">Okra (Utkal Gaurav, Arka Anamika, Pusa Bhindi-5)</string>
+    <string name="okra_v_title1">🌱 Okra \n (Utkal Gaurav, Arka Anamika, Pusa Bhindi-5)</string>
+
+    <string name="okra_v_detailss">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm and humid (25-35°C), moderate rainfall 80-120 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used in curries, fries, and sambar\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Angul, Khordha, Keonjhar\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-April, June-Aug):</b> Plowing 2-3 times, FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Sowing (March-May, July-Sept):</b> Direct seeding at 45x30 cm spacing\n\n
+<b>3️⃣ Nutrient Management (April-Aug):</b> 80 kg N, 50 kg P, 60 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (May-Sept):</b> Irrigation every 4-5 days in summer\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Whitefly – Neem oil spray, Yellow vein mosaic virus managed with resistant varieties\n\n
+<b>6️⃣ Harvesting (June-Nov):</b> 45-55 days after sowing, yield 10-12 tons/ha
+</string>
+
+    <string name="vo7">🧅Onion</string>
+    <string name="gp37">Onion (NHRDF Red-2, Bhima Shakti, Agrifound Light Red)</string>
+    <string name="onion_v_titles">🧅 Onion \n (NHRDF Red-2, Bhima Shakti, Agrifound Light Red)</string>
+    <string name="onion_v_details1">
+<b>✅ Season:</b> Rabi &amp; Kharif\n\n
+<b>✅ Climate:</b> Cool season (15-25°C), moderate rainfall 80-100 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, pH 6.0-7.5\n\n
+<b>✅ Usage:</b> Used in curries, pickles, and raw salads\n\n
+<b>✅ Odisha Relevance:</b> Cultivated in Sambalpur, Boudh, Sundargarh\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Plowed &amp; beds prepared, FYM 20 tons/ha applied\n\n
+<b>2️⃣ Nursery Raising (Nov-Dec):</b> Seedlings raised in trays, transplanted at 45 days\n\n
+<b>3️⃣ Nutrient Management (Dec-Feb):</b> 100 kg N, 60 kg P, 80 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Dec-April):</b> Irrigation every 5-7 days, mulching applied\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Thrips – Neem oil spray, Purple blotch controlled with Mancozeb spray\n\n
+<b>6️⃣ Harvesting (March-May):</b> 90-110 days after transplanting, yield 25-30 tons/ha
+</string>
+
+    <string name="so1">Select your scheme</string>
+    <string name="so2">1)Mukhyamantri Krushi Udyog Yojana (MKUY)</string>
+    <string name="so3">2)Capital Investment and Farm Mechanization</string>
+    <string name="so4">3)Training and Capacity Building of Agriculture</string>
+    <string name="so5">4)Bhoomihina Agriculturist Loan and Resources Augmentation Model</string>
+
+
+        <!-- Title -->
+        <string name="f1">🌱 Bhoomihina Agriculturist Loan and Resources Augmentation Model (BALARAM)</string>
+
+        <!-- Description -->
+        <string name="f2">BALARAM is a scheme by the Odisha government to provide loans to landless farmers and sharecroppers for agricultural activities.</string>
+
+        <!-- Eligibility -->
+        <string name="f3">✅ Eligibility:</string>
+        <string name="f4">
+        - Landless farmers, sharecroppers, or oral lessees.\n
+        - Resident of Odisha.\n
+        - Member of a Joint Liability Group (JLG) of 5 members.
+    </string>
+
+        <!-- Scheme Criteria -->
+        <string name="f5">📌 Scheme Criteria:</string>
+        <string name="f6">
+        - Loan up to ₹1.6 lakh per JLG.\n
+        - No collateral required.\n
+        - Loans for crop production, equipment, and farm activities.
+    </string>
+
+        <!-- Application Duration -->
+        <string name="f7">⏳ Application Duration:</string>
+        <string name="f8">Applications open year-round. Apply during any cropping season.</string>
+
+        <!-- How to Apply -->
+        <string name="f9">🖥️ How to Apply:</string>
+        <string name="f10">Visit Krishi Bhavan or contact Block Agricultural Officer (BAO). Register JLG and apply through partner banks.</string>
+
+
+        <string name="z1_scheme_name">Capital Investment and Farm Mechanization</string>
+
+        <string name="z2_heading_description">Description</string>
+        <string name="z3_description_text">Supports farmers with subsidies for buying modern farm equipment.</string>
+
+        <string name="z4_heading_eligibility">Eligibility</string>
+        <string name="z5_eligibility_text">All farmers of Odisha, including FPOs and Cooperatives.</string>
+
+        <string name="z6_heading_scheme_criteria">Scheme Criteria</string>
+        <string name="z7_scheme_criteria_text">Subsidies for tractors, power tillers, harvesters, and tools.</string>
+
+        <string name="z8_heading_application_duration">Application Duration</string>
+        <string name="z9_application_duration_text">Applications open before cropping seasons as notified.</string>
+
+        <string name="z10_heading_how_to_apply">How to Apply</string>
+        <string name="z11_how_to_apply_text">Apply online on the Agriculture Department portal or visit Krishi Bhavan.</string>
+
+
+</resources>

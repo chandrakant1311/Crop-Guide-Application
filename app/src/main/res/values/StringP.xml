@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gp1">Select Your Grain</string>
+
+    <string name="gp2">🌾Wheat</string>
+    <string name="wheat_v_title">🌾 Wheat (Triticum aestivum)</string>
+    <string name="wheat_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Prefers cool temperatures (10-15°C) with moderate irrigation\n\n
+<b>✅ Soil:</b> Well-drained loamy and alluvial soil\n\n
+<b>✅ Usage:</b> Staple food used in chapati, bread, and bakery items\n\n
+<b>✅ Punjab Relevance:</b> Punjab is the largest producer of wheat in India, known as the "Granary of India"\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Deep plowing, apply 10-12 tons/ha FYM\n\n
+<b>2️⃣ Sowing (Nov-Dec):</b> Drilling method (4-5 cm depth, 20 cm row spacing). Seed rate: 100-125 kg/ha\n\n
+<b>3️⃣ Nutrient Management (Dec-Feb):</b> 100 kg N, 50 kg P, 50 kg K/ha before sowing; 40 kg N/ha after 30-40 days\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Dec-Mar):</b> 4-6 irrigations; Isoproturon (0.75 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Rust, smut – Mancozeb (2g/L water)\n\n
+<b>6️⃣ Harvesting (Mar-Apr):</b> 120-140 days; golden grains indicate maturity. Yield: 3-5 tons/ha
+</string>
+
+    <string name="gp3">🌾Rice</string>
+    <string name="rice_v_title">🌾 Rice (Paddy)</string>
+    <string name="rice_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Requires high rainfall (100-150 cm)\n\n
+<b>✅ Soil:</b> Clayey and alluvial soil with good water retention\n\n
+<b>✅ Usage:</b> Punjab is a major rice exporter; used for staple food\n\n
+<b>✅ Punjab Relevance:</b> Key regions include Amritsar, Ludhiana, and Patiala\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Leveling and puddling, apply 10-12 tons/ha FYM\n\n
+<b>2️⃣ Sowing (June-July):</b> Transplanting method (20 cm row spacing). Seed rate: 25-30 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 60 kg N, 40 kg P, 40 kg K/ha before transplanting\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Oct):</b> Continuous standing water. Pretilachlor (1 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Blast, bacterial blight – Mancozeb (2g/L)\n\n
+<b>6️⃣ Harvesting (Oct-Nov):</b> 120-150 days. Yield: 4-6 tons/ha
+</string>
+
+    <string name="gp4">🌾Maize</string>
+    <string name="maize_v_title">🌾 Maize (Corn)</string>
+    <string name="maize_v_details">
+<b>✅ Season:</b> Kharif (Monsoon) &amp; Rabi (Winter)\n\n
+<b>✅ Climate:</b> Requires moderate rainfall (50-100 cm) with temperatures around 20-30°C\n\n
+<b>✅ Soil:</b> Grows best in loamy and alluvial soil\n\n
+<b>✅ Usage:</b> Used in food, fodder, starch, and oil production\n\n
+<b>✅ Punjab Relevance:</b> Increasingly cultivated in Punjab due to water conservation efforts\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Apply 10-12 tons/ha FYM\n\n
+<b>2️⃣ Sowing (June-July &amp; Oct-Nov):</b> Drilling method (4-5 cm depth, 60 cm row spacing). Seed rate: 20-25 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 120 kg N, 60 kg P, 40 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Oct):</b> 2-3 irrigations; Atrazine (0.5 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fall armyworm, rust – Neem oil or Chlorpyrifos (2ml/L)\n\n
+<b>6️⃣ Harvesting (Oct-Nov &amp; Feb-March):</b> 90-120 days. Yield: 3-4 tons/ha
+</string>
+
+    <string name="gp5">🌾Barley</string>
+    <string name="barley_v_title">🌾 Barley</string>
+    <string name="barley_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Grows well in cool, dry conditions (10-15°C)\n\n
+<b>✅ Soil:</b> Prefers well-drained loamy soil\n\n
+<b>✅ Usage:</b> Used in malt, brewing, and animal feed\n\n
+<b>✅ Punjab Relevance:</b> Grown in dryland farming regions\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Plow land, apply 10 tons/ha FYM\n\n
+<b>2️⃣ Sowing (Nov-Dec):</b> Drilling method (20 cm row spacing). Seed rate: 85-100 kg/ha\n\n
+<b>3️⃣ Nutrient Management (Dec-Feb):</b> 50 kg N, 40 kg P, 30 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Dec-Mar):</b> 3-4 irrigations, Pendimethalin (1 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur spray (2g/L)\n\n
+<b>6️⃣ Harvesting (Mar-Apr):</b> 110-130 days. Yield: 2.5-3.5 tons/ha
+</string>
+
+    <string name="gp6">🌾Bajra</string>
+    <string name="bajra_v_title">🌾 Bajra (Pearl Millet)</string>
+    <string name="bajra_v_details">
+<b>✅ Season:</b> Kharif (Monsoon)\n\n
+<b>✅ Climate:</b> Drought-resistant, needs 40-60 cm rainfall\n\n
+<b>✅ Soil:</b> Thrives in sandy loam soil\n\n
+<b>✅ Usage:</b> Used in roti, fodder, and processed foods\n\n
+<b>✅ Punjab Relevance:</b> Cultivated in low-rainfall zones of Punjab\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Plowing, apply 8-10 tons/ha FYM\n\n
+<b>2️⃣ Sowing (June-July):</b> Broadcasting method (30 cm row spacing). Seed rate: 4-6 kg/ha\n\n
+<b>3️⃣ Nutrient Management (July-Aug):</b> 40 kg N, 20 kg P, 20 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Sept):</b> Mostly rain-fed, one irrigation at booting stage. Atrazine (0.5 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Downy mildew – Mancozeb (2g/L)\n\n
+<b>6️⃣ Harvesting (Sept-Oct):</b> 90-110 days. Yield: 1.5-2.5 tons/ha
+</string>
+
+    <string name="gp7">🌾Gram(Chana)</string>
+    <string name="gram_v_title">🌾 Gram (Chickpea - Chana)</string>
+    <string name="gram_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Requires cool temperatures (20-25°C)\n\n
+<b>✅ Soil:</b> Best in well-drained loamy or black cotton soil\n\n
+<b>✅ Usage:</b> Used in dal, flour (besan), and various food products\n\n
+<b>✅ Punjab Relevance:</b> Grown in semi-arid regions of Punjab\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Deep plowing, apply 5-8 tons/ha FYM\n\n
+<b>2️⃣ Sowing (Nov-Dec):</b> Drilling method (3-4 cm depth, 30 cm row spacing). Seed rate: 75-100 kg/ha\n\n
+<b>3️⃣ Nutrient Management (Dec-Jan):</b> 20-30 kg N, 50 kg P, 30 kg K/ha before sowing\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Dec-Feb):</b> Rain-fed crop, but one irrigation at pod development boosts yield. Pendimethalin (1 kg/ha) for weeds\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Pod borer – Neem oil or Spinosad (1ml/L)\n\n
+<b>6️⃣ Harvesting (Feb-March):</b> 110-120 days. Yield: 1.5-2.5 tons/ha
+</string>
+
+    <string name="fp1">Select Your Fruit</string>
+
+    <string name="fp2">🍊Kinnow</string>
+    <string name="kinnow_v_title">🍊 Kinnow (Hybrid Mandarin)</string>
+    <string name="kinnow_v_details">
+<b>✅ Season:</b> Winter (Nov-Feb)\n\n
+<b>✅ Climate:</b> Subtropical (15-30°C)\n\n
+<b>✅ Soil:</b> Sandy loam with good drainage\n\n
+<b>✅ Usage:</b> Fresh fruit, juices, jams\n\n
+<b>✅ Punjab Relevance:</b> Found in Fazilka, Hoshiarpur, Muktsar\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (March-April):</b> Deep plowing, adding 15-20 tons/ha Farmyard Manure (FYM)\n\n
+<b>2️⃣ Planting (July-August):</b> Budded plants at 6x6m spacing\n\n
+<b>3️⃣ Nutrient Management (Aug-Dec):</b> 500g Nitrogen, 250g Phosphorus, 500g Potassium per tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Year-round):</b> Drip irrigation, regular manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Citrus canker – Copper fungicide spray (3g/L)\n\n
+<b>6️⃣ Harvesting (Nov-Feb):</b> Fruit ripens in 4-5 years, yield 30-35 tons/ha
+</string>
+
+    <string name="fp3">🍈Guava</string>
+    <string name="guava_v_title">🍈 Guava \n (Allahabad Safeda, Punjab Pink, Lalit)</string>
+    <string name="guava_v_details">
+<b>✅ Season:</b> Winter &amp; Summer\n\n
+<b>✅ Climate:</b> Semi-arid (20-35°C), rainfall 80-150 cm\n\n
+<b>✅ Soil:</b> Sandy loam\n\n
+<b>✅ Usage:</b> Fresh fruit, jams, juices\n\n
+<b>✅ Punjab Relevance:</b> Cultivated in Ludhiana, Amritsar, Patiala\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (April-May):</b> Plowing with 10-12 tons/ha FYM\n\n
+<b>2️⃣ Planting (June-July):</b> 5x5m spacing, deep pits for seedlings\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 400g N, 250g P, 500g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (July-Feb):</b> Drip irrigation, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit fly – Malathion spray (2ml/L water)\n\n
+<b>6️⃣ Harvesting (Oct-April):</b> 2-3 years after planting, yield 15-20 tons/ha
+</string>
+
+    <string name="fp4">🌳Amla</string>
+    <string name="amla_v_title">🌳 Amla \n (Banarasi, Chakaiya, Kanchan)</string>
+    <string name="amla_v_details">
+<b>✅ Season:</b> Winter (Nov-Feb)\n\n
+<b>✅ Climate:</b> Semi-arid, rainfall 50-100 cm\n\n
+<b>✅ Soil:</b> Loamy soil, well-drained\n\n
+<b>✅ Usage:</b> Used in Ayurvedic medicine, juices, candies\n\n
+<b>✅ Punjab Relevance:</b> Found in Ropar, Patiala, Ludhiana\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-March):</b> Deep plowing, applying 20 tons/ha FYM\n\n
+<b>2️⃣ Planting (April-May):</b> 8x8m spacing, grafted saplings\n\n
+<b>3️⃣ Nutrient Management (May-Oct):</b> 500g N, 250g P, 300g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (May-Jan):</b> Drip irrigation, mulching with dry leaves\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Bark-eating caterpillar – Chlorpyrifos spray (3ml/L water)\n\n
+<b>6️⃣ Harvesting (Nov-Feb):</b> 4-5 years after planting, yield 20-30 tons/ha
+</string>
+
+    <string name="fp5">🍐Pear</string>
+    <string name="pear_v_title">🍐 Pear \n (Bartlett, Punjab Beauty, Punjab Soft)</string>
+    <string name="pear_v_details">
+<b>✅ Season:</b> Summer (July-September)\n\n
+<b>✅ Climate:</b> Temperate, rainfall 50-100 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam\n\n
+<b>✅ Usage:</b> Fresh consumption, canned products\n\n
+<b>✅ Punjab Relevance:</b> Found in Pathankot, Gurdaspur, Hoshiarpur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Dec-Jan):</b> Deep plowing, adding 20 tons/ha FYM\n\n
+<b>2️⃣ Planting (Jan-Feb):</b> 5x5m spacing, grafted saplings\n\n
+<b>3️⃣ Nutrient Management (Feb-June):</b> 500g N, 300g P, 400g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Feb-Aug):</b> Flood irrigation every 10-15 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Pear psylla – Neem oil spray (5ml/L water)\n\n
+<b>6️⃣ Harvesting (July-Sept):</b> 3-4 years after planting, yield 20-25 tons/ha
+</string>
+
+    <string name="fp6">🍎Pomegranate</string>
+    <string name="pomegranate_v_title">🍎 Pomegranate \n (Bhagwa, Ganesh, Arakta)</string>
+    <string name="pomegranate_v_details">
+<b>✅ Season:</b> Year-round\n\n
+<b>✅ Climate:</b> Arid, semi-arid (25-40°C), rainfall 50-100 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam\n\n
+<b>✅ Usage:</b> Fresh fruit, juices, medicinal use\n\n
+<b>✅ Punjab Relevance:</b> Cultivated in Amritsar, Ferozepur, Tarn Taran\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (March-April):</b> Deep plowing, applying 10-15 tons/ha FYM\n\n
+<b>2️⃣ Planting (May-June):</b> 4x5m spacing, saplings transplanted\n\n
+<b>3️⃣ Nutrient Management (June-Oct):</b> 600g N, 400g P, 500g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (June-Dec):</b> Drip irrigation, pruning for airflow\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit cracking – Boron spray (0.2%)\n\n
+<b>6️⃣ Harvesting (Aug-Nov):</b> 2-3 years after planting, yield 12-15 tons/ha
+</string>
+
+    <string name="fp7">🍏Ber</string>
+    <string name="ber_v_title">🍏 Ber \n (Umran, Kaithli, Seb, Mundia)</string>
+    <string name="ber_v_details">
+<b>✅ Season:</b> Winter &amp; Summer\n\n
+<b>✅ Climate:</b> Hot &amp; dry, rainfall 30-60 cm\n\n
+<b>✅ Soil:</b> Sandy loam\n\n
+<b>✅ Usage:</b> Fresh consumption, pickles\n\n
+<b>✅ Punjab Relevance:</b> Cultivated in Bathinda, Mansa, Faridkot\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July):</b> Apply 10-15 tons/ha FYM\n\n
+<b>2️⃣ Planting (July-August):</b> 6x6m spacing, seedling transplantation\n\n
+<b>3️⃣ Nutrient Management (Aug-Dec):</b> 300g N, 200g P, 250g K/tree\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-March):</b> Drip irrigation, mulching to conserve moisture\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit borer – Neem-based insecticides\n\n
+<b>6️⃣ Harvesting (Nov-Feb):</b> 2-3 years after planting, yield 15-18 tons/ha
+</string>
+
+    <string name="vp1">Select your Vegetables</string>
+
+    <string name="vp2">🥔Potato</string>
+    <string name="potato_v_title">🥔 Potato \n (Kufri Pukhraj, Kufri Jyoti, Kufri Sindhuri)</string>
+    <string name="potato_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Cool weather (10-20°C), moderate rainfall 50-100 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam with good organic matter\n\n
+<b>✅ Usage:</b> Used for fresh consumption, chips, processed products\n\n
+<b>✅ Punjab Relevance:</b> Cultivated in Jalandhar, Hoshiarpur, Ludhiana\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Sept-Oct):</b> Plowed 2-3 times, 20-25 tons/ha FYM applied\n\n
+<b>2️⃣ Planting (Oct-Nov):</b> Spacing 60x20 cm, seed tubers planted\n\n
+<b>3️⃣ Nutrient Management (Nov-Jan):</b> 120 kg N, 80 kg P, 100 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Nov-Feb):</b> 5-6 irrigations, earthing up done\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Late blight – Mancozeb spray (2.5g/L water)\n\n
+<b>6️⃣ Harvesting (Feb-March):</b> 90-100 days after planting, yield 25-30 tons/ha
+</string>
+
+    <string name="vp3">🥦Cauliflower</string>
+    <string name="cauliflower_v_titles">🥦 Cauliflower \n (Pusa Snowball, Punjab Giant, Pusa Deepali)</string>
+    <string name="cauliflower_v_details1">
+<b>✅ Season:</b> Rabi &amp; Kharif\n\n
+<b>✅ Climate:</b> Cool temperature (15-25°C), rainfall 50-80 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil with good fertility\n\n
+<b>✅ Usage:</b> Used in curries, pickles, processed foods\n\n
+<b>✅ Punjab Relevance:</b> Found in Amritsar, Patiala, Gurdaspur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (July-Aug):</b> FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Planting (Aug-Sept):</b> Spacing 45x45 cm, seedlings transplanted\n\n
+<b>3️⃣ Nutrient Management (Aug-Dec):</b> 100 kg N, 60 kg P, 80 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-Jan):</b> Drip irrigation, 2-3 manual weedings\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Diamondback moth – Neem oil spray (5ml/L)\n\n
+<b>6️⃣ Harvesting (Nov-Jan):</b> 90-110 days after transplanting, yield 20-25 tons/ha
+</string>
+
+    <string name="vp4">🥕Carrot</string>
+    <string name="carrot_v_title">🥕 Carrot \n (Pusa Rudhira, Nantes, Early Kunwari)</string>
+    <string name="carrot_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Cool climate (10-25°C), rainfall 40-80 cm\n\n
+<b>✅ Soil:</b> Deep sandy loam, well-drained\n\n
+<b>✅ Usage:</b> Used for fresh consumption, juices, sweets\n\n
+<b>✅ Punjab Relevance:</b> Grown in Ludhiana, Moga, Ferozepur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Sept-Oct):</b> Plowing and FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Sowing (Oct-Nov):</b> Spacing 30x10 cm, seeds sown at 1.5 cm depth\n\n
+<b>3️⃣ Nutrient Management (Nov-Jan):</b> 80 kg N, 50 kg P, 70 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Nov-Feb):</b> 4-5 irrigations, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Aphids – Neem oil spray (3ml/L water)\n\n
+<b>6️⃣ Harvesting (Feb-March):</b> 90-100 days after sowing, yield 30-35 tons/ha
+</string>
+
+    <string name="vp5">🌱Peas</string>
+    <string name="peas_v_title">🌱 Peas \n (Arkel, Punjab 89, Bonneville)</string>
+    <string name="peas_v_details">
+<b>✅ Season:</b> Rabi (Winter)\n\n
+<b>✅ Climate:</b> Cool weather (10-20°C), moderate rainfall 50-80 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil with high organic matter\n\n
+<b>✅ Usage:</b> Used in curries, frozen peas, processed products\n\n
+<b>✅ Punjab Relevance:</b> Cultivated in Jalandhar, Ludhiana, Sangrur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Plowing 2-3 times, FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Sowing (Nov-Dec):</b> Spacing 30x10 cm, seeds sown at 3 cm depth\n\n
+<b>3️⃣ Nutrient Management (Nov-Jan):</b> 50 kg N, 60 kg P, 40 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Nov-Feb):</b> 2-3 irrigations, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Powdery mildew – Sulfur spray (2g/L water)\n\n
+<b>6️⃣ Harvesting (Feb-March):</b> 90-100 days after sowing, yield 15-18 tons/ha
+</string>
+
+    <string name="vp6">🥬Spinach</string>
+    <string name="spinach_v_title">🥬 Spinach \n (All Green, Pusa Harit, Punjab Green)</string>
+    <string name="spinach_v_details">
+<b>✅ Season:</b> Rabi &amp; Kharif\n\n
+<b>✅ Climate:</b> Cool season crop (10-25°C), rainfall 40-80 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam, rich in organic matter\n\n
+<b>✅ Usage:</b> Used in curries, soups, fresh salads\n\n
+<b>✅ Punjab Relevance:</b> Found in Ferozepur, Mansa, Hoshiarpur\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Aug-Sept):</b> FYM 10-15 tons/ha applied\n\n
+<b>2️⃣ Sowing (Sept-Oct):</b> Broadcasting seeds or 30x10 cm row spacing\n\n
+<b>3️⃣ Nutrient Management (Oct-Dec):</b> 40 kg N, 30 kg P, 20 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Oct-Feb):</b> 3-4 irrigations, weeding at 30 days\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Leaf miner – Neem oil spray (2ml/L water)\n\n
+<b>6️⃣ Harvesting (Nov-Feb):</b> 30-40 days after sowing, yield 10-12 tons/ha
+</string>
+
+    <string name="vp7">🥕Radish</string>
+    <string name="radish_v_title">🥕 Radish \n (Pusa Chetki, Punjab Safed, Japanese White)</string>
+    <string name="radish_v_details">
+<b>✅ Season:</b> Rabi &amp; Kharif\n\n
+<b>✅ Climate:</b> Cool temperature (10-25°C), rainfall 50-90 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam with high organic matter\n\n
+<b>✅ Usage:</b> Used in salads, curries, pickles\n\n
+<b>✅ Punjab Relevance:</b> Grown in Ludhiana, Amritsar, Patiala\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Aug-Sept):</b> FYM 10-15 tons/ha applied\n\n
+<b>2️⃣ Sowing (Sept-Oct):</b> 30x10 cm row spacing, seeds sown at 2 cm depth\n\n
+<b>3️⃣ Nutrient Management (Oct-Dec):</b> 60 kg N, 40 kg P, 50 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Oct-Feb):</b> 3-4 irrigations, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Aphids – Neem oil spray (3ml/L water)\n\n
+<b>6️⃣ Harvesting (Nov-Feb):</b> 40-50 days after sowing, yield 12-15 tons/ha
+</string>
+
+    <string name="sp1">Select your scheme</string>
+
+
+    <string name="sp2">1) Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)</string>
+    <string name="sp3">2)Punjab CM Kisan Card Scheme</string>
+    <string name="sp4">3)PNB Kisan Credit Card (KCC)</string>
+    <string name="sp5">4)PNB Swarnim Yojana (Agriculture Gold Loan Scheme)</string>
+
+
+</resources>

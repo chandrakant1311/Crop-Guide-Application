@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crop Guide</string>
+    <string name="m1">WELCOME TO CROP GUIDE APPLICATION</string>
+    <string name="m2">Login</string>
+    <string name="m3">Sign Up</string>
+    <string name="m4">About us</string>
+    <string name="m5">Made By\nChandrakant M and Vivek S</string>
+    <string name="m6">Login to Your Account</string>
+    <string name="m7">Email</string>
+    <string name="m8">Password</string>
+    <string name="m9">Confirm Password</string>
+    <string name="m10">Login</string>
+    <string name="m11">Username</string>
+    <string name="m12">Select Your Location</string>
+    <string name="m13">Menu</string>
+    <string name="m14">Grains</string>
+    <string name="m16">Vegetables</string>
+    <string name="m15">Fruits</string>
+    <string name="m17">Schemes</string>
+    <string name="gm1">Select Your Grain</string>
+
+    <string name="gm2">🌾Wheat</string>
+    <string name="wheat_title">🌾 Wheat</string>
+    <string name="gmd2">
+    <b>✅ Season:</b> Rabi (Winter).\n\n
+    <b>✅ Climate:</b> Prefers cool temperatures (10-15°C) with moderate irrigation.\n\n
+    <b>✅ Soil:</b> Well-drained loamy and black soil.\n\n
+    <b>✅ Usage:</b> Used for making bread, chapati, and bakery products.\n\n
+    <b>✅ Maharashtra Relevance:</b> Grown in irrigated regions like Pune, Nashik, and Vidarbha.\n\n
+    <b>Cultivation Process with Fertilizers and Time Period</b>\n\n
+    <b>1️⃣ Land Preparation (Oct-Nov):</b> Plow deeply, apply 10-12 tons/ha FYM.\n\n
+    <b>2️⃣ Sowing (Nov-Dec):</b> Drilling method (4-5 cm depth, 20 cm row spacing). Seed rate: 100-125 kg/ha.\n\n
+    <b>3️⃣ Nutrient Management (Dec-Feb):</b> 100 kg N, 50 kg P, 50 kg K/ha before sowing; 40 kg N/ha after 30-40 days.\n\n
+    <b>4️⃣ Irrigation and Weed Control (Dec-Mar):</b> 4-6 irrigations; Isoproturon (0.75 kg/ha) for weeds.\n\n
+        <b>5️⃣ Pest and Disease Management:</b>\n\n
+    <b>Pests:</b> Aphids, termites – Chlorpyrifos (2ml/L).\n\n
+    <b>Diseases:</b> Rust, smut – Mancozeb (2g/L).\n\n
+    <b>6️⃣ Harvesting (Mar-Apr):</b> 120-140 days; golden grains indicate maturity. Yield: 3-5 tons/ha.
+</string>
+
+    <string name="gm3">🌾Jowar</string>
+    <string name="jowar_title">🌾 Jowar (Sorghum)</string>
+    <string name="jowar_details">
+<b>✅ Season:</b> Rabi (Winter) and Kharif (Monsoon).\n\n
+<b>✅ Climate:</b> Thrives in dry conditions with moderate rainfall (25-75 cm).\n\n
+<b>✅ Soil:</b> Best grown in black cotton soil with good moisture retention.\n\n
+<b>✅ Usage:</b> Used for making roti (bhakri), fodder for livestock, and food processing.\n\n
+<b>✅ Maharashtra Relevance:</b> A staple crop in drought-prone areas, supporting food security.\n\n
+<b>Cultivation Process with Fertilizers and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Plow 2-3 times, apply 5-10 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (Mid-Nov - Early Dec):</b> Drilling method (2-3 cm depth, 45 cm row spacing). Seed rate: 8-10 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (Dec-Feb):</b> 40-50 kg N, 40 kg P, 40 kg K/ha before sowing; 25 kg N/ha after 30-35 days.\n\n
+<b>4️⃣ Irrigation and Weed Control (Dec-Mar):</b> Rain-fed crop but two irrigations (30-40 and 60-70 days) improve yield. Atrazine (0.5 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Stem borer, shoot fly – Neem oil or Chlorpyrifos (2ml/L).\n\n
+<b>Diseases:</b> Leaf blight, rust – Mancozeb (2g/L).\n\n
+<b>6️⃣ Harvesting (Mar-Apr):</b> 110-120 days; grains should be dry and hard. Yield: 2.5-3.5 tons/ha.
+</string>
+
+    <string name="gm4">🌾Bajra</string>
+    <string name="bajra_title">🌾 Bajra </string>
+    <string name="bajra_details">
+<b>✅ Season:</b> Kharif (Monsoon).\n\n
+<b>✅ Climate:</b> Drought-tolerant, needs 40-50 cm rainfall.\n\n
+<b>✅ Soil:</b> Best in sandy, well-drained soil.\n\n
+<b>✅ Usage:</b> Used in bhakri, porridge, and fodder.\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in dryland farming regions like Marathwada.\n\n
+<b>Cultivation Process with Fertilizers and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Plow 2-3 times, apply 5-8 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (June-July):</b> Drilling or broadcasting (2-3 cm depth, 45 cm row spacing). Seed rate: 3-4 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 40 kg N, 20 kg P, 20 kg K/ha before sowing; 20 kg N/ha after 30 days.\n\n
+<b>4️⃣ Irrigation and Weed Control (July-Sept):</b> Rain-fed; one irrigation at 30-40 days improves yield. Atrazine (0.5 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Shoot fly, aphids – Neem oil or Dimethoate (2ml/L).\n\n
+<b>Diseases:</b> Downy mildew – Metalaxyl (2g/L).\n\n
+<b>6️⃣ Harvesting (Sept-Oct):</b> 90-110 days. Yield: 1.5-2.5 tons/ha.
+</string>
+
+    <string name="gm5">🌾Soyabin</string>
+    <string name="soybean_title">🌾 Soybean</string>
+    <string name="soybean_details">
+<b>✅ Season:</b> Kharif (Monsoon).\n\n
+<b>✅ Climate:</b> Prefers warm temperatures (20-30°C) with moderate rainfall (60-100 cm).\n\n
+<b>✅ Soil:</b> Well-drained black and loamy soil.\n\n
+<b>✅ Usage:</b> Used for oil extraction, animal feed, and protein-rich food.\n\n
+<b>✅ Maharashtra Relevance:</b> Grown extensively in Vidarbha and Marathwada.\n\n
+<b>Cultivation Process with Fertilizers and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Deep plowing, apply 8-10 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (June-July):</b> Drilling method (3-4 cm depth, 45 cm row spacing). Seed rate: 75-100 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 30-40 kg N, 60 kg P, 30 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation and Weed Control (July-Sept):</b> Rain-fed, but one irrigation at pod formation boosts yield. Pendimethalin (1 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Pod borer, aphids – Neem oil or Imidacloprid (2ml/L).\n\n
+<b>Diseases:</b> Rust, anthracnose – Mancozeb (2g/L).\n\n
+<b>6️⃣ Harvesting (Oct-Nov):</b> 90-110 days. Yield: 2-3 tons/ha.
+</string>
+
+    <string name="gm6">🌾Rice</string>
+    <string name="rice_title">🌾 Rice</string>
+    <string name="rice_details">
+<b>✅ Season:</b> Kharif (Monsoon).\n\n
+<b>✅ Climate:</b> Requires high rainfall (100-150 cm).\n\n
+<b>✅ Soil:</b> Best in clayey and alluvial soil.\n\n
+<b>✅ Usage:</b> Staple food in India.\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in Konkan, Western Maharashtra.\n\n
+<b>Cultivation Process with Fertilizers and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Leveling and puddling, apply 10-12 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (June-July):</b> Transplanting method (20 cm row spacing). Seed rate: 25-30 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (July-Sept):</b> 60 kg N, 40 kg P, 40 kg K/ha before transplanting.\n\n
+<b>4️⃣ Irrigation and Weed Control (July-Oct):</b> Continuous standing water. Pretilachlor (1 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Stem borer, leaf folder – Chlorpyrifos (2ml/L).\n\n
+<b>Diseases:</b> Blast, bacterial blight – Mancozeb (2g/L).\n\n
+<b>6️⃣ Harvesting (Oct-Nov):</b> 120-150 days. Yield: 3-6 tons/ha.
+</string>
+
+    <string name="gm7">🌾Chickpea</string>
+    <string name="chickpea_title">🌾 Chickpea (Chana)</string>
+    <string name="chickpea_details">
+<b>✅ Season:</b> Rabi (Winter).\n\n
+<b>✅ Climate:</b> Requires cool temperatures (20-25°C) with moderate rainfall (40-60 cm).\n\n
+<b>✅ Soil:</b> Best in well-drained loamy or black cotton soil.\n\n
+<b>✅ Usage:</b> Used in dal, flour (besan), and various food products.\n\n
+<b>✅ Maharashtra Relevance:</b> Major pulse crop in Vidarbha and Marathwada due to its drought tolerance.\n\n
+<b>Cultivation Process with Fertilizers and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (Oct-Nov):</b> Deep plowing, apply 5-8 tons/ha FYM.\n\n
+<b>2️⃣ Sowing (Nov-Dec):</b> Drilling method (3-4 cm depth, 30 cm row spacing). Seed rate: 75-100 kg/ha.\n\n
+<b>3️⃣ Nutrient Management (Dec-Jan):</b> 20-30 kg N, 50 kg P, 30 kg K/ha before sowing.\n\n
+<b>4️⃣ Irrigation and Weed Control (Dec-Feb):</b> Rain-fed crop, but one irrigation at pod development boosts yield. Pendimethalin (1 kg/ha) for weeds.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Pod borer – Neem oil or Spinosad (1ml/L).\n\n
+<b>Diseases:</b> Wilt, blight – Mancozeb (2g/L).\n\n
+<b>6️⃣ Harvesting (Feb-March):</b> 110-120 days. Pods turn yellowish-brown when mature. Yield: 1.5-2.5 tons/ha.
+</string>
+
+    <string name="fm1">Select Your Fruit</string>
+    <string name="fm2">🥭Mango</string>
+    <string name="mango_title">🥭 Mango \n(Alphonso, Kesar, Langda, Dasheri)</string>
+    <string name="mango_details">
+<b>✅ Season:</b> Summer (March – June).\n\n
+<b>✅ Climate:</b> Requires warm, humid conditions with rainfall 75-250 cm.\n\n
+<b>✅ Soil:</b> Best in well-drained loamy soil with good organic content.\n\n
+<b>✅ Usage:</b> Consumed fresh, in juices, pickles, and pulp-based products.\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in Konkan region (Ratnagiri, Sindhudurg, Raigad).\n\n
+<b>Cultivation Process and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (June-July):</b> Deep plowing, FYM 10-15 tons/ha applied.\n\n
+<b>2️⃣ Planting (July-August):</b> Grafted saplings at 8x8m spacing.\n\n
+<b>3️⃣ Nutrient Management (Aug-Nov):</b> Nitrogen (500g), Phosphorus (250g), Potassium (500g/tree) annually.\n\n
+<b>4️⃣ Irrigation and Weed Control (Nov-May):</b> Drip irrigation; Mulching prevents weeds.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Mango hopper.\n\n
+<b>Diseases:</b> Powdery mildew – Neem oil or Carbendazim (1g/L).\n\n
+<b>6️⃣ Harvesting (March-June):</b> 3-5 years for fruiting. Yield: 10-15 tons/ha.
+</string>
+
+    <string name="fm3">🍌Banana</string>
+    <string name="banana_title">🍌 Banana \n(Grand Naine, Rasthali, Rajeli, Safed Velchi)</string>
+    <string name="banana_details">
+<b>✅ Season:</b> Grown year-round, main season July-October.\n\n
+<b>✅ Climate:</b> Needs 27-30°C and high humidity with 150-200 cm rainfall.\n\n
+<b>✅ Soil:</b> Best in well-drained alluvial soil.\n\n
+<b>✅ Usage:</b> Fresh consumption, chips, pulp, fiber extraction.\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in Jalgaon, Pune, Nashik.\n\n
+<b>Cultivation Process and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (June):</b> Deep plowing, FYM 25-30 tons/ha applied.\n\n
+<b>2️⃣ Planting (July-August):</b> Tissue culture plants at 1.5x1.5m spacing.\n\n
+<b>3️⃣ Nutrient Management (Aug-Nov):</b> 200g N, 100g P, 300g K/plant.\n\n
+<b>4️⃣ Irrigation and Weed Control (Aug-May):</b> Drip irrigation, mulching for weed control.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Diseases:</b> Sigatoka, nematodes – Copper oxychloride (3g/L water).\n\n
+<b>6️⃣ Harvesting (Sept-Dec):</b> 10-12 months after planting. Yield: 40-50 tons/ha.
+</string>
+
+    <string name="fm4">🍎Pomegranate</string>
+    <string name="pomegranate_title">🍎 Pomegranate \n(Bhagwa, Ganesh, Arakta)</string>
+    <string name="pomegranate_details">
+<b>✅ Season:</b> Grown year-round, peak season October-March.\n\n
+<b>✅ Climate:</b> Thrives in hot, dry climate, rainfall 50-70 cm.\n\n
+<b>✅ Soil:</b> Prefers light loamy or sandy soil.\n\n
+<b>✅ Usage:</b> Consumed fresh, juice, medicinal uses.\n\n
+<b>✅ Maharashtra Relevance:</b> Solapur, Nashik, Ahmednagar.\n\n
+<b>Cultivation Process and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (April-May):</b> Plowing, 10-15 tons/ha FYM applied.\n\n
+<b>2️⃣ Planting (June-July):</b> 3x3m spacing, drip irrigation system.\n\n
+<b>3️⃣ Nutrient Management (July-Dec):</b> 250g N, 125g P, 250g K/plant.\n\n
+<b>4️⃣ Irrigation and Weed Control (July-Jan):</b> Drip irrigation, manual weeding.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Disease:</b> Bacterial blight – Streptocycline spray (500 ppm).\n\n
+<b>6️⃣ Harvesting (Oct-March):</b> 18-24 months after planting. Yield: 12-15 tons/ha.
+</string>
+
+    <string name="fm5">🍉Watermelon</string>
+    <string name="watermelon_title">🍉 Watermelon \n (Sugar Baby, Kiran, Black Diamond)</string>
+    <string name="watermelon_details">
+<b>✅ Season:</b> Summer (Feb-May).\n\n
+<b>✅ Climate:</b> Requires warm temperatures (25-35°C) and low humidity.\n\n
+<b>✅ Soil:</b> Best in sandy loam soil with good drainage.\n\n
+<b>✅ Usage:</b> Consumed fresh, in juices, salads, and desserts.\n\n
+<b>✅ Maharashtra Relevance:</b> Cultivated in Nashik, Pune, Solapur, Ahmednagar.\n\n
+<b>🌱 Cultivation Process and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (Dec-Jan):</b> Deep plowing, FYM 8-10 tons/ha applied.\n\n
+<b>2️⃣ Sowing (Jan-Feb):</b> Direct seed sowing at 1.5x1m spacing.\n\n
+<b>3️⃣ Nutrient Management (Feb-April):</b> 60 kg N, 30 kg P, 50 kg K/ha.\n\n
+<b>4️⃣ Irrigation and Weed Control (Feb-May):</b> Drip irrigation, plastic mulch for weed control.\n\n
+<b>5️⃣ Pest and Disease Management:</b>\n\n
+<b>Pests:</b> Aphids – Neem oil spray.\n
+<b>Diseases:</b> Powdery mildew – Carbendazim (1g/L water).\n\n
+<b>6️⃣ Harvesting (April-May):</b> 70-90 days after sowing. Yield: 25-30 tons/ha.
+</string>
+
+    <string name="fm6">🍈Papaya</string>
+    <string name="papaya_title">🍈 Papaya \n (Red Lady, Pusa Delicious, Arka Prabhath)</string>
+
+    <string name="papaya_details">
+<b>✅ Season:</b> Grown year-round, best planting in June and October.\n\n
+<b>✅ Climate:</b> Requires warm, humid climate (21-33°C).\n\n
+<b>✅ Soil:</b> Best in well-drained sandy loam soil.\n\n
+<b>✅ Usage:</b> Consumed fresh, used in juices, jams, and cosmetics.\n\n
+<b>✅ Maharashtra Relevance:</b> Cultivated in Aurangabad, Pune, Jalgaon.\n\n
+<b>Cultivation Process and Time Period</b>\n\n
+<b>1️⃣ Land Preparation (May and Sept):</b> Deep plowing, 10-15 tons/ha FYM applied.\n\n
+<b>2️⃣ Planting (June and Oct):</b> 1.8x1.8m spacing, drip irrigation setup.\n\n
+<b>3️⃣ Nutrient Management (July-Feb):</b> 250g N, 150g P, 250g K/tree.\n\n
+<b>4️⃣ Irrigation and Weed Control (Year-round):</b> Drip irrigation, manual weeding.\n\n
+<b>5️⃣ Pest and Disease Management:</b> Papaya mealybug – Neem oil (5ml/L water).\n\n
+<b>6️⃣ Harvesting (9-12 months after planting):</b> Year-round fruiting. Yield: 40-50 tons/ha.
+</string>
+
+    <string name="fm7">🍏Custard Apple</string>
+    <string name="custardapple_title">🍏 Custard Apple \n (Sitaphal - Balanagar, Arka Sahan, NMK-1)</string>
+    <string name="custardapple_details">
+<b>✅ Season:</b> Monsoon (June-Aug) &amp; Post-Monsoon (Sept-Dec).\n\n
+<b>✅ Climate:</b> Thrives in semi-arid climate (25-35°C), low rainfall (50-100 cm).\n\n
+<b>✅ Soil:</b> Best in red sandy loam or black cotton soil.\n\n
+<b>✅ Usage:</b> Consumed fresh, pulp used in ice creams, milkshakes.\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in Beed, Solapur, Nashik, Pune.\n\n
+<b>Cultivation Process &amp; Time Period</b>\n\n
+<b>1️⃣ Land Preparation (May-June):</b> Deep plowing, 8-10 tons/ha FYM applied.\n\n
+<b>2️⃣ Planting (June-July):</b> 5x5m spacing, deep pits for seedlings.\n\n
+<b>3️⃣ Nutrient Management (July-Oct):</b> 300g N, 150g P, 300g K/tree.\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (June-Feb):</b> Drip irrigation, mulching for weed control.\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Fruit borer – Neem oil or Malathion (2ml/L water).\n\n
+<b>6️⃣ Harvesting (Sept-Dec):</b> 3-4 years after planting. Yield: 8-12 tons/ha.
+</string>
+
+    <string name="vm1">Select your Vegetable</string>
+
+    <string name="vm2">🥒Sponge gourd</string>
+    <string name="sponge_gourd_v_title">🥒 Sponge Gourd \n ( Arka Sujat)</string>
+
+    <string name="sponge_gourd_v_details">
+<b>✅ Season:</b> Summer &amp; Kharif\n\n
+<b>✅ Climate:</b> Warm &amp; humid (25-35°C), rainfall 70-150 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam to clay loam, rich in organic matter\n\n
+<b>✅ Usage:</b> Used in curries, soups, fritters; also for skincare (when matured)\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in Pune, Kolhapur, Nagpur regions\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (Feb-March &amp; June-July):</b> 15-20 tons/ha FYM incorporated, field well-tilled and leveled\n\n
+<b>2️⃣ Planting (March-April &amp; July-Aug):</b> Direct seeding or seedling transplanting at 1.5-2 m row spacing, 0.5-0.6 m between plants\n\n
+<b>3️⃣ Nutrient Management (April-Sept):</b> 60 kg N, 50 kg P, 50 kg K/ha; half N at sowing, half after 30 days\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (April-Oct):</b> Light irrigation every 6-8 days; 2-3 manual weedings\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Red pumpkin beetle – Neem oil spray (5ml/L); Downy mildew – Copper oxychloride spray (3g/L)\n\n
+<b>6️⃣ Harvesting (May-Nov):</b> 50-70 days after sowing, picking at tender stage, average yield 20-25 tons/ha
+</string>
+
+
+
+
+    <string name="vm3">🧅Onion</string>
+    <string name="onion_v_title">🧅 Onion \n (N-53, Bhima Super, Agrifound Light Red)</string>
+
+    <string name="onion_v_details">
+<b>✅ Season:</b> Rabi &amp; Kharif\n\n
+<b>✅ Climate:</b> Warm &amp; dry (15-25°C), rainfall 50-100 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil\n\n
+<b>✅ Usage:</b> Used in curries, pickles, dehydrated onion flakes\n\n
+<b>✅ Maharashtra Relevance:</b> Grown in Nashik, Ahmednagar, Pune\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Oct-Nov):</b> FYM 20 tons/ha applied\n\n
+<b>2️⃣ Planting (July-Aug &amp; Nov-Dec):</b> Seeds sown at 15x10 cm spacing\n\n
+<b>3️⃣ Nutrient Management (Aug-Feb):</b> 100 kg N, 50 kg P, 80 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-March):</b> Drip irrigation, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Thrips – Neem oil spray (3ml/L water)\n\n
+<b>6️⃣ Harvesting (Jan-May):</b> 110-140 days after planting, yield 25-30 tons/ha
+</string>
+
+    <string name="vm4">🌶️Chili</string>
+    <string name="chilli_v_title">🌶️ Chili \n (Pusa Jwala, G-4, Arka Meghana)</string>
+
+    <string name="chilli_v_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm &amp; dry (20-35°C), rainfall 60-100 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam\n\n
+<b>✅ Usage:</b> Used in spices, pickles, dried chili powder\n\n
+<b>✅ Maharashtra Relevance:</b> Found in Kolhapur, Sangli, Nashik\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Oct-Nov):</b> FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Planting (July-Aug &amp; Nov-Dec):</b> Seedlings transplanted at 60x45 cm spacing\n\n
+<b>3️⃣ Nutrient Management (Aug-Feb):</b> 90 kg N, 60 kg P, 50 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-March):</b> Drip irrigation, 2-3 weedings\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Aphids – Neem oil spray (2ml/L water)\n\n
+<b>6️⃣ Harvesting (Jan-May):</b> 120-150 days after transplanting, yield 20-25 tons/ha
+</string>
+
+    <string name="vm5">🥬Okra (Bhindi)</string>
+    <string name="okra_v_title">🥬 Okra (Bhindi) \n (Arka Anamika, Parbhani Kranti)</string>
+
+    <string name="okra_v_details">
+<b>✅ Season:</b> Kharif &amp; Summer\n\n
+<b>✅ Climate:</b> Warm &amp; humid (20-35°C), rainfall 50-120 cm\n\n
+<b>✅ Soil:</b> Well-drained sandy loam\n\n
+<b>✅ Usage:</b> Used in curries, pickles, fried dishes\n\n
+<b>✅ Maharashtra Relevance:</b> Cultivated in Solapur, Ahmednagar, Pune\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Feb-March):</b> FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Sowing (July-Aug &amp; March-April):</b> Spacing 50x30 cm, direct seeding\n\n
+<b>3️⃣ Nutrient Management (Aug-Dec):</b> 80 kg N, 50 kg P, 60 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-Jan):</b> Drip irrigation, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Shoot &amp; fruit borer – Neem oil spray (3ml/L water)\n\n
+<b>6️⃣ Harvesting (Oct-Jan):</b> 60-70 days after sowing, yield 10-12 tons/ha
+</string>
+
+    <string name="vm6">🍆Brinjal</string>
+    <string name="brinjal_title">🍆 Brinjal \n(Eggplant) (Pusa Purple Long)</string>
+    <string name="brinjal_details">
+<b>✅ Season:</b> Kharif &amp; Rabi\n\n
+<b>✅ Climate:</b> Warm (20-30°C), moderate rainfall 60-100 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil with high organic matter\n\n
+<b>✅ Usage:</b> Used in curries, pickles, and stuffed dishes\n\n
+<b>✅ Maharashtra Relevance:</b> Cultivated in Nashik, Pune, Solapur\n\n
+<b>Cultivation Process &amp; Time Period</b>\n\n
+<b>1️⃣ Land Preparation (June-July &amp; Oct-Nov):</b> FYM 20-25 tons/ha applied\n\n
+<b>2️⃣ Planting (July-Aug &amp; Nov-Dec):</b> Seedlings transplanted at 60x60 cm spacing\n\n
+<b>3️⃣ Nutrient Management (Aug-Feb):</b> 120 kg N, 80 kg P, 60 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-March):</b> Drip irrigation, manual weeding\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Shoot borer – Neem oil spray (4ml/L water)\n\n
+<b>6️⃣ Harvesting (Nov-April):</b> 120-140 days after transplanting, yield 35-40 tons/ha
+</string>
+
+    <string name="vm7">🥦Cauliflower</string>
+    <string name="cauliflower_v_title">🥦 Cauliflower (Gobhi) \n (Pusa Snowball, Punjab Giant, Pusa Deepali)</string>
+
+    <string name="cauliflower_v_details">
+<b>✅ Season:</b> Rabi &amp; Kharif\n\n
+<b>✅ Climate:</b> Cool temperature (15-25°C), rainfall 50-80 cm\n\n
+<b>✅ Soil:</b> Well-drained loamy soil with good fertility\n\n
+<b>✅ Usage:</b> Used in curries, pickles, processed foods\n\n
+<b>✅ Maharashtra Relevance:</b> Found in Pune, Nashik, Satara\n\n
+<b>Cultivation Process &amp; Time Period:</b>\n\n
+<b>1️⃣ Land Preparation (July-Aug):</b> FYM 15-20 tons/ha applied\n\n
+<b>2️⃣ Planting (Aug-Sept):</b> Spacing 45x45 cm, seedlings transplanted\n\n
+<b>3️⃣ Nutrient Management (Aug-Dec):</b> 100 kg N, 60 kg P, 80 kg K/ha\n\n
+<b>4️⃣ Irrigation &amp; Weed Control (Aug-Jan):</b> Drip irrigation, 2-3 manual weedings\n\n
+<b>5️⃣ Pest &amp; Disease Management:</b> Diamondback moth – Neem oil spray (5ml/L water)\n\n
+<b>6️⃣ Harvesting (Nov-Jan):</b> 90-110 days after transplanting, yield 20-25 tons/ha
+</string>
+
+<string name="desc">The Crop Guide Application helps you explore complete crop information for grains, fruits, and vegetables.
+Select your location and crop, and get detailed guidance from planting to cultivation.
+Plus, discover relevant government schemes and support programs to boost your farming journey!
+Perfect for farmers, students, and agriculture enthusiasts.</string>
+
+    <string name="sm1">Select scheme</string>
+
+    <string name="sm2">1)Pradhan Mantri Fasal Bima Yojana (PMFBY)</string>
+    <string name="pmfby_heading">🌾 Pradhan Mantri Fasal Bima Yojana (PMFBY)</string>
+    <string name="pmfby_description_heading">📝 Description:</string>
+    <string name="pmfby_description">This scheme provides insurance coverage and financial support to farmers in the event of crop failure due to natural calamities, pests, or diseases.</string>
+    <string name="pmfby_eligibility_heading">✅ Eligibility:</string>
+    <string name="pmfby_eligibility">- All farmers growing notified crops in a notified area.\n- Must have an insurable interest (land ownership or tenancy).\n- Loanee and non-loanee farmers are eligible.</string>
+    <string name="pmfby_criteria_heading">📌 Scheme Criteria:</string>
+    <string name="pmfby_criteria">- Covers all food and oilseed crops and annual commercial/horticultural crops.\n- Premium Rates:\n  • 2% for Kharif crops\n  • 1.5% for Rabi crops\n  • 5% for commercial/horticultural crops\n- Balance premium paid by government subsidy.\n- Claims calculated using remote sensing and weather data.</string>
+    <string name="pmfby_duration_heading">⏳ Application Duration:</string>
+    <string name="pmfby_duration">- Kharif Season: Typically April to July\n- Rabi Season: October to December</string>
+    <string name="pmfby_apply_heading">🖥️ How to Apply:</string>
+    <string name="pmfby_apply">Apply through the nearest bank, Common Service Centre (CSC), or online at https://pmfby.gov.in/</string>
+
+
+
+    <string name="sm3">2)Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)</string>
+
+
+    <string name="pmkisan_title">\uD83C\uDF3E Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)</string>
+    <string name="description">\uD83D\uDCDD Description:</string>
+    <string name="pmkisan_description">Provides ₹6,000 per year in 3 equal installments to eligible farmer families, directly into their bank accounts.</string>
+    <string name="eligibility">\u2705 Eligibility:</string>
+    <string name="pmkisan_eligibility">Small and marginal farmers with up to 2 hectares of land.\n\nThe scheme was later extended to all land-holding farmers, except:\n\n- Institutional landholders\n- Income tax payers\n- Retired professionals holding constitutional posts</string>
+    <string name="scheme_criteria">\uD83D\uDCCC Scheme Criteria:</string>
+    <string name="pmkisan_scheme_criteria">\u20B92,000 every four months (April–July, Aug–Nov, Dec–March).\n\nMust have Aadhaar-linked bank account and land records.</string>
+    <string name="application_duration">\u23F3 Application Duration:</string>
+    <string name="pmkisan_application_duration">Open year-round; no fixed window.</string>
+    <string name="how_to_apply">\uD83D\uDDA5️ How to Apply:</string>
+    <string name="pmkisan_how_to_apply">Online via https://pmkisan.gov.in\n\nOr visit local CSC centers or agriculture department office.</string>
+
+
+    <string name="sm4">3)Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)</string>
+    <string name="pmkmy_heading">🌾 3. Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)</string>
+    <string name="pmkmy_description_heading">📝 Description:</string>
+    <string name="pmkmy_description">A voluntary and contributory pension scheme for small and marginal farmers offering ₹3,000 monthly pension after the age of 60.</string>
+    <string name="pmkmy_eligibility_heading">✅ Eligibility:</string>
+    <string name="pmkmy_eligibility">- Age: 18–40 years\n- Landholding: Up to 2 hectares\n- Must not be covered under EPFO, NPS, or any government pension scheme.</string>
+    <string name="pmkmy_criteria_heading">📌 Scheme Criteria:</string>
+    <string name="pmkmy_criteria">- Monthly contribution: ₹55–₹200 based on age.\n- Government contributes an equal amount.\n- Pension begins at age 60.\n- Option to exit with contributions if farmer dies or opts out.</string>
+    <string name="pmkmy_duration_heading">⏳ Application Duration:</string>
+    <string name="pmkmy_duration">- Available year-round.</string>
+    <string name="pmkmy_apply_heading">🖥️ How to Apply:</string>
+    <string name="pmkmy_apply">Apply through CSC centers. Aadhaar, land documents, and savings bank account are required.</string>
+
+
+    <string name="sm5">4)Agriculture Infrastructure Fund (AIF)</string>
+    <string name="aif_heading">🏗️  Agriculture Infrastructure Fund (AIF)</string>
+    <string name="aif_description_heading">📝 Description:</string>
+    <string name="aif_description">This scheme provides medium to long-term debt financing for investment in viable agricultural infrastructure like cold storage, warehouses, and supply chain facilities.</string>
+    <string name="aif_eligibility_heading">✅ Eligibility:</string>
+    <string name="aif_eligibility">- Farmers, FPOs, PACS, agri-entrepreneurs, startups, and cooperatives.\n- State agencies and local bodies also eligible.</string>
+    <string name="aif_criteria_heading">📌 Scheme Criteria:</string>
+    <string name="aif_criteria">- Loans up to ₹2 crore per project at subsidized interest.\n- Interest subvention: 3% per annum up to ₹2 crore for 7 years.\n- Credit guarantee available for eligible borrowers.</string>
+    <string name="aif_duration_heading">⏳ Application Duration:</string>
+    <string name="aif_duration">- Scheme valid from 2020 to 2032.\n- Apply any time within this duration.</string>
+
+    <string name="aif_apply_heading">🖥️ How to Apply:</string>
+    <string name="aif_apply">Apply online via https://agriinfra.dac.gov.in\nOr visit your local bank for guided application process.</string>
+
+
+</resources>
